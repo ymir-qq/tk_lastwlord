@@ -3688,8 +3688,8 @@
 12567:우*번성
 12568:초*동관
 12569:충*장년
-12570:충*외전
-12571:교*석정
+12570:충*반삼국
+12571:규*석정
 12572:소*탁고
 12573:요*관서
 12574:숙*단도
@@ -3706,12 +3706,12 @@
 12585:운*장판파
 12586:선*미인
 12587:몽*백의
-12588:손*이령
+12588:손*이릉
 12589:조*위왕
 12590:비*한중왕
 12591:권*오왕
 12592:소*북방웅주
-12593:자*백마종횡
+12593:찬*백마종횡
 12594:탁*권세천하
 12595:획*패왕
 12596:각*대현량사
@@ -8111,12 +8111,12 @@
 75382:고금(古今)을 담은 혼카드, 낙신*견밀을 이 전장(战场)에 인입하였습니다. [주 :등장연령 18세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
 75383:옥체취록이 푸르고 촘촘하여 거의 결점 없다. 용무늬가 혼연일체가 되어 천지를 조각한 것 같다.
 75384:낙수의 정령이 응결되어 검의 몸이 가늘고 하늘빛을 띠며, 문신이 물결처럼 물결치고, 고요히 맑은 노랫소리를 듣습니다.
-75385:고금(古今)을 담은 혼카드, 귀한*문희를 이 전장(战场)에 인입하였습니다. [주 :등장연령 23세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
+75385:고금(古今)을 담은 혼카드, 귀한*채염을 이 전장(战场)에 인입하였습니다. [주 :등장연령 23세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
 75386:전설에 의하면 그성서가 모든 천문과 지리지식을 포함합니다.깨진 페이지가 몇 개 밖에 남지 않은 것은 유감입니다.
 75387:고금(古今)을 담은 혼카드, 번성*관우를 이 전장(战场)에 인입하였습니다. [주 :등장연령 57세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
 75388:고금(古今)을 담은 혼카드, 동관*마초를 이 전장(战场)에 인입하였습니다. [주 :등장연령 35세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
 75389:고금(古今)을 담은 혼카드, 장년*황충을 이 전장(战场)에 인입하였습니다. [주 :등장연령 42세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
-75390:고금(古今)을 담은 혼카드, 외전*조충을 이 전장(战场)에 인입하였습니다. [주 :등장연령 16세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
+75390:고금(古今)을 담은 혼카드, 반삼국*조충을 이 전장(战场)에 인입하였습니다. [주 :등장연령 16세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
 75391:고금(古今)을 담은 혼카드, 석정*가규를 이 전장(战场)에 인입하였습니다. [주 :등장연령 51세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
 75392:고금(古今)을 담은 혼카드, 탁고*장소를 이 전장(战场)에 인입하였습니다. [주 :등장연령 44세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
 75393:고금(古今)을 담은 혼카드, 관서*종요를 이 전장(战场)에 인입하였습니다. [주 :등장연령 48세, 수명 99세] [동일한 혼카드는 시나리오에 한 번만 사용가능]
@@ -18831,27 +18831,27 @@
 71572:매일 일정 수량의 물품을 무료로 줍니다.
 71573:계속하기
 71574:¥
-71575:사기와 경험이 100일 때는 병사가 훈련할 수 없습니다
+71575:사기와 경험치가 100일 때에는 병사를 훈련할 수 없습니다
 71576:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">천하를 평정하고, 한실을 보좌하니 황제가 왕으로 봉합니다. 조정 공경들이 모여</code><code color="0xff00ffff">%2$s왕</code><code color="0xffffffff">을 칭송합니다.</code></codelist>
 71577:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 황제라 칭하고 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역를 수도로 하는 새로운 제국을 세웁니다.</code></codelist>
 71578:<codelist><code>수많은 고생 끝에 </code><code color="0xfffaaf00">%1$s</code><code>님이 천하를 통일했습니다.</code><code color="0xfffaaf00">%1$s</code><code>님은 쓰러져 가는 한 황실의 권위를 세우고 충절로 황실을 섬겨 천하를 평안하게 했습니다.</code></codelist>
 71579:<codelist><code>어느덧 백발이 성성해지니</code><code color="0xfffaaf00">%1$s</code><code>님은 황제의 만류에도 불구하고 은퇴하여 귀향합니다. 귀향길에 오르자 수만명의 백성들이 길목을 끼고 환송합니다.</code></codelist>
 71580:<codelist><code>귀향한지 3년, </code><code color="0xfffaaf00">%1$s</code><code>님이 사망하니 천하가 비통에 빠집니다. 한 황실은 그 충절을 기리며 그 모습을 본받으니</code><code color="0xfffaaf00">%1$s</code><code>님은 후대에도 명신으로 칭송받았다.</code></codelist>
 71581:<codelist><code>하지만 100년 후 영광도 오래가지 않고, 선비족이 급습하여 일거에 낙양을 함락하니, 한의 여광은 역사의 긴 흐름 속에 묻히고 맙니다.</code></codelist>
-71582:송구영신, 제년수
-71583:%s대인, 년수가 난을 일으키고 있습니다, 년수를 토벌하러 갈까요?
+71582:송구영신, 년수 제거
+71583:%s 대인, 년수가 난을 일으키고 있습니다, 년수를 토벌하러 갈까요?
 71584:짐승을 토벌한는 일 잠시 생각해 주십시오.
 71585:<codelist><code color="0xffffffff">년수가 도망쳐 보물을 떨어뜨렸다.</code><code color="0xff00ff00">%1$s</code></codelist>
-71586:군대 주무장은 포로가 될 수 없을 것이다.
+71586:군대의 주장은 포로가 될 수 없습니다.
 71587:병종 선택!
 71588:현재 원보가 부족합니다, 구매하시겠습니까?
-71589:보물획득
+71589:보물 획득
 71590:두배의 보상
 71591:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">보물이 발견되였습니다</code><code color="0xffffff00">%3$s. </code></codelist>
 71592:이 버전은 커뮤니티 플레이어 번역입니다
-71593:보물획득
+71593:보물 획득
 71594:스페셜 감사(게이머)
-71595:汉末霸业后援团 冰冷的狗粮 汉中王李进 吾爱 我本无名 颜渊
+71595:한말패업 후원단 冰冷的狗粮 汉中王李进 吾爱 我本无名 颜渊
 71596:三锅拍按 大表哥 秦浩轩 逸梦凡 虚拟 邓方
 71597:殇陌城 香蕉 东邪 飞鱼 咖啡猫 南华老仙
 71598:李玄岩 芈冰 七羽 楚狂 逸梦凡 微凉 李国靖
@@ -18873,13 +18873,13 @@
 71614:신물단조
 71615:신물이 모두 나왔으니 다른 유형의 장비를 선택하십시오.
 71616:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">의 역병에 대한 보고입니다!</code></codelist>
-71617:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 역병에 걸리습니다, 주공의 치료를 바랍니다.</code></codelist>
-71618:<codelist><code color="0xffffffff">기후 변화로 역병이 점차 진정되고 있습니다. 감염자 늘지 않습니다.</code></codelist>
-71619:<codelist><code color="0xff0000ff">보고드립니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 대규모 역병이 발생하여 인구가【%2$d】 명 줄어들고, 농업이【%3$d】, 상업이【%4$d】 하락하고, 부대가【%5$d】 명 줄어들었습니다. 동시에 </code><code color="0xfffaaf00">%6$s</code><code color="0xffffffff">님 등 %7$d명의 무장이 역병에 감염되었습니다.</code></codelist>
-71620:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 역병이 맹위를 떨쳐, 인구가【%2$d】 명, 군대가【%3$d】 명 줄어들고, 농업과 상업이【%4$d】 하락했습니다. 동시에 </code><code color="0xfffaaf00">%5$s</code><code color="0xffffffff">님 등 %6$d명의 무장이 역병에 감염되었습니다.</code></codelist>
+71617:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 역병에 걸렸습니다. 주공의 치료를 바랍니다.</code></codelist>
+71618:<codelist><code color="0xffffffff">기후 변화로 역병이 점차 진정되고 있습니다. 감염자가 더 이상 늘지 않습니다.</code></codelist>
+71619:<codelist><code color="0xff0000ff">보고드립니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 대규모 역병이 발생하여 인구가 【%2$d】명 줄어들고, 농업이 【%3$d】, 상업이 【%4$d】만큼 하락하고, 병사가 【%5$d】명 줄어들었습니다. 동시에 </code><code color="0xfffaaf00">%6$s</code><code color="0xffffffff">님 등 %7$d명의 무장이 역병에 감염되었습니다.</code></codelist>
+71620:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 역병이 맹위를 떨쳐, 인구가 【%2$d】명, 병사가 【%3$d】명 줄어들고, 농업과 상업이 【%4$d】만큼 하락했습니다. 동시에 </code><code color="0xfffaaf00">%5$s</code><code color="0xffffffff">님 등 %6$d명의 무장이 역병에 감염되었습니다.</code></codelist>
 71621:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 저항력이 강해 몸이 저절로 건강을 되찾았습니다.</code></codelist>
-71622:<codelist><code color="0xff0000ff">보고드립니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 역병이 맹위를 떨쳐, 인구가【%2$d】 명 줄어들고, 농업이【%3$d】, 상업이【%4$d】 하락했으며, 부대가【%5$d】 명 줄어들었습니다. 다행히 무장은 역병에 걸리지 않았습니다.</code></codelist>
-71623:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 역병이 맹위를 떨쳐, 인구가【%2$d】 명, 군대가【%3$d】 명 줄어들고, 농업과 상업이【%4$d】 하락했습니다. 이번 달에 역병에 감염된 장수는 없습니다.</code></codelist>
+71622:<codelist><code color="0xff0000ff">보고드립니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 역병이 맹위를 떨쳐, 인구가 【%2$d】명 줄어들고, 농업이 【%3$d】, 상업이 【%4$d】만큼 하락했으며, 병사가 【%5$d】명 줄어들었습니다. 다행히 무장은 역병에 걸리지 않았습니다.</code></codelist>
+71623:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 역병이 맹위를 떨쳐, 인구가 【%2$d】명, 병사가 【%3$d】명 줄어들고, 농업과 상업이 【%4$d】만큼 하락했습니다. 이번 달에 역병에 감염된 장수는 없습니다.</code></codelist>
 71624:재해 발생 확률
 71625:게임 진행 중 재해의 촉발 확률 계수
 71626:집필
@@ -18896,10 +18896,10 @@
 71637:명작 책
 71638:고체시
 71639:고대 악곡표
-71640:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">명령</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">등%3$d个도시가 봉쇄되다, 역병의 전파 능력을 늦추었습니다.</code></codelist>
-71641:역병이 창궐합니다, 주공께서는 가능한 한 빨리 결정을 내려 주십시오.
-71642:역병도시 봉쇄.
-71643:주공이 모든 역병 도시를 봉쇄하라는 명령을 내렸습니다. 자금 수입이 0이 되고 양곡 수익이 반감됩니다.
+71640:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">명령</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">등 %3$개 도시를 봉쇄하여, 역병의 전파 능력을 늦추었습니다.</code></codelist>
+71641:역병이 창궐합니다. 주공께서는 가능한 한 빨리 결정을 내려 주십시오.
+71642:역병 도시 봉쇄.
+71643:주공이 역병이 도는 모든 도시를 봉쇄하라는 명령을 내렸습니다. 자금 수입이 0이 되고 양곡 수익이 반감됩니다.
 71644:<codelist><code></code><code color="0xffA91C00">%1$s</code><code>님이 오랫동안 생각한 끝에 한 권의 책을 썼습니다.</code><code color="0xff00D8FF">《%2$s》</code><code></code></codelist>
 71645:<codelist><code></code><code color="0xffA91C00">%1$s</code><code>님이 갑자기 생각이 떠올라 한 권의 책을 썼습니다.</code><code color="0xff00D8FF">《%2$s》</code><code></code></codelist>
 71646:<codelist><code></code><code color="0xffA91C00">%1$s</code><code>님이 글의 구상이 샘솟는 것을 느끼고, 한 편의 문장을 써냈습니다.</code><code color="0xff0000CD">《%2$s》</code><code>, </code><code color="0xffA91C00">%3$s</code><code>님의 책은 후대에 전해질 명저입니다.</code></codelist>
@@ -19277,12 +19277,12 @@
 72019:죽었음
 72020:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력 멸망</code></codelist>
 72021:초현령을 사용하면 랜덤 무장 한명을 모집하니까 확실히 사용합니까?
-72022:한용을 고용해서 한 무장을 암살하면 10000골드 필요합니다.
-72023:주공님은 날 국사로 대우해서 저도 국사로서 주공을 협조할 것입니다.
-72024:도와 줘서 아주 감사하는데 암살한 사람은 아주 위험해서 이렇게 하면 정말 안됩니다.
-72025:저는 길일을 선택해 출발할 것이니까 조금 기다리면 됩니다.
-72026:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"> </code><code color="0xff00ffff">한룡</code><code color="0xffffffff"> 척살당한데 치열한 전투를 치른 후 </code><code color="0xff00ffff">한룡</code></codelist>을 물리쳤다.
-72027:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"> </code><code color="0xff00ffff">한룡</code><code color="0xffffffff"> 척살당한데 </code><code color="0xff0000CD">%2$s</code><code color="0xffffffff"> 도망갔다. </code></codelist>
+72022:한용을 고용해서 한 무장을 암살하려면 10000 금이 필요합니다.
+72023:주공께서 저를 국사로 대우하시니 저 또한 국사로서 주공께 협조할 것입니다. 주공의 큰 근심을 없애드리겠습니다.
+72024:암살은 정당한 방법이 아닙니다. 도와주시려는 선생의 뜻은 마음만 받겠습니다. 정말 그렇게 까지 하실 필요는 없습니다.
+72025:제가 길일을 잡아 출발할 터이니, 조용히 좋은 소식을 기다려 주십시오.
+72026:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"> </code><code color="0xff00ffff">한룡</code><code color="0xffffffff">의 암살 시도가 있었으나, 치열한 전투 끝에 </code><code color="0xff00ffff">한룡</code></codelist><code color="0xffffffff">을 물리쳤다.</code></codelist>
+72027:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"> </code><code color="0xff00ffff">한룡</code><code color="0xffffffff">의 암살 시도가 있었으나, </code><code color="0xff0000CD">%2$s</code><code color="0xffffffff"> 도망쳤다.</code></codelist>
 72028:검객 척살
 72029:[주:상점_광고 포인트로 교환가능]
 72030:2개 셋트
@@ -19297,7 +19297,7 @@
 72039:%s님 산간에 고탑이 나타났다고 합니다. 탐색합니까?
 72040:%s님 설산에 고탑이 나타났다고 합니다. 탐색합니까?
 72041:%s님 사막에 고탑이 나타났다고 합니다. 탐색합니까?
-72042:고탑 탐색은 좀더 생각해보겠습니다.
+72042:고탑 탐색은 좀더 생각해 보겠습니다.
 72043:<codelist><code color="0xffffffff">이번에 고탐을 탐색해 보물</code><code color="0xff00ff00">%1$s을 획득합니다.</code></codelist>
 72044:<codelist><code>사막에 고탑이 나타났으니, 탐색할 수 있습니다.</code></codelist>
 72045:<codelist><code>산간에 고탑이 나타났으니, 탐색할 수 있습니다.</code></codelist>
@@ -19331,7 +19331,7 @@
 72073:<codelist><code> 밀정 보고에 따라 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"> 모이는 도적이 많습니다. 주공님 조심하세요. </code></codelist>
 72074:<codelist><code color="0xff00ffff">%1$s</code><code> 군대를 결집해서 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 돌파하고 대량 자원을 빼았다. </code></codelist>
 72075:<codelist><code color="0xff00ffff">%1$s</code><code>물리쳐서 도망갔다.</code><code color="0xff00ffff">%2$s</code><code>, </code><code color="0xff00ffff">%3$s</code><code>, </code><code color="0xff00ffff">%4$s</code><code>획득한다.</code></codelist>
-72076:누구냐? 빨리 나타납시오! ?
+72076:누구냐? 빨리 나타납시오!?
 72077:<codelist><code color="0xffffffff">이번 유적을 탐색해서 </code><code color="0xff00ff00">%1$s 획득한다. </code></codelist>
 72078:첫 충전 시 2배의 원보를 획득 할 수 있습니다.
 72079:계정 정보가 일치하지 않습니다, 변경 후 다시 시도하십시오.
@@ -19542,7 +19542,7 @@
 72304:제1위
 72305:제2위
 72306:기능을 선택해 주세요
-72307:龙游天下用户协议及隐私政策
+72307:용유천하 사용자 계약 및 개인 정보 보호 정책
 72308:<codelist><code color="0xff3E43D6">额外内容恢复说明</code><p/><code>1.已购买</code><code color="0xff3E43D6">额外内容</code><code>无法使用, 点确定进行恢复</code> <p/><code>2.恢复失败, 请再次按购买流程进行激活, 不会重复扣款</code></codelist>
 72309:二龙争战决雌雄
 72310:赤壁楼船扫地空
@@ -19794,35 +19794,35 @@
 81062:<codelist><code color="0xfffaaf00">%1$s</code><code color="4xffffffff">부대가 파견되어 출정했다.</code></codelist>
 81063:조운*한수
 81064:관우*백마
-81065:진비*낙신
-81066:채안*귀한
+81065:견밀*낙신
+81066:채염*귀한
 81067:관우*번성
 81068:마초*동관
 81069:황충*장년
-81070:조춘*외전
-81071:가귀*석정
+81070:조충*반삼국
+81071:가규*석정
 81072:장소*탁고
 81073:종요*관서
 81074:노숙*단도
-81075:여보*호뢰
-81076:조유*적벽
+81075:여포*호뢰
+81076:주유*적벽
 81077:제갈량*서성
 81078:곽가*역성
 81079:장비*낭중
-81080:강위*조서
-81081:덥애*진서
-81082:양후*정남
+81080:강유*조서
+81081:등애*진서
+81082:양호*정남
 81083:제갈량*칠성
-81084:장룡*소요진
+81084:장료*소요진
 81085:조운*장판파
 81086:초선*미인
 81087:여몽*백의
-81088:육손*이령
+81088:육손*이릉
 81089:조조*위왕
 81090:유비*한중왕
 81091:손권*오왕
-81092:원사오*북방웅주
-81093:공손자*백마종횡
+81092:원소*북방웅주
+81093:공손찬*백마종횡
 81094:동탁*권세천하
 81095:맹획*패왕
 81096:장각*대현량사
