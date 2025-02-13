@@ -6282,7 +6282,7 @@
 16141:일반 대철 도끼이다.
 16142:도끼위에 상고선 화문을 세겨진 도끼이다.
 16143:전설의 대우치수의 보물급 무기이다.
-16144:전설의 성황이 사용한 무기이다.
+16144:전설에 의하면, 서황은 60근 무게의 외날 도끼를 사용했는데, 돌을 꿰뚫을 정도로 그 위력이 대단했다 한다.
 16145:오과국왕 올돌골이 사용한 슈퍼 도끼이다.
 16146:전설의 후삼국 제일 맹장 문앙의 무기이다.
 16147:전설의 동오 노장 황개의 쌍철편이다.
@@ -8732,7 +8732,7 @@
 30237:주공, 석재가 부족하니 사람을 보내 수성전에 필요한 뇌석을 미리 준비해야 됩니다. (소모금 200)
 30238:성벽 보수
 30239:낙후된 성벽 수리
-30240:주공, 성벽이 오래되어 수리하지 않으면 도시방위가 하락합니다. (소모금 200)
+30240:주공, 성벽이 오래되어 수리하지 않으면 도성의 방어도가 하락합니다. (소모금 200)
 30241:성가퀴 건설
 30242:성가퀴 보수
 30243:주공, 성벽의 성가퀴는 전시에 방어하는 데 꼭 필요한 곳이니, 빨리 사람을 보내 수리하도록 하세요. (소모금 200)
@@ -9151,20 +9151,20 @@
 30669:금방 장마철이니까 빨리 도랑을 뚫어야 합니다!
 30670:함께 힘냅시다! 도랑을 뚫어서 물을 댈 수 있습니다.
 30671:올해에는 비가 거의 내리지 않으므로 관개를 돕기 위해 더 많은 물레 방아를 만들 수 있다면!
-40000:우리 장씨 집안은 군량 보물을 매매하는데 명마와 무기가 제일 유명합니다!
-40001:우리 견씨 집안은 군량 보물을 매매하는데 갑옷과 장신구가 제일 유명합니다!
-40002:우리 위씨 집안은 군량 보물을 매매하는데 무기와 술이 제일 유명합니다!
-40003:우리 미씨 집안은 군량 보물을 매매하는데 보물과 무기가 제일 유명합니다!
-40004:우리 진씨 집안은 군량 보물을 매매하는데 서적과 물약이 제일 유명합니다!
-40005:우리 채씨 집안은 군량 보물을 매매하는데 보물과 의복이 제일 유명합니다!
-40006:우리 육씨 집안은 군량 보물을 매매하는데 서적과 악기가 제일 유명합니다!
-40007:%1$s 대인님, 이번 방문은 %2$s 에 대한 소감을 논의하러 왔는데 휘하의 어떤 분과 논쟁할 수 있을까요!
+40000:우리 장씨 집안은 군량과 각종 보물을 매매하는데 명마와 무기가 제일 유명합니다!
+40001:우리 견씨 집안은 군량과 각종 보물을 매매하는데 갑옷과 장신구가 제일 유명합니다!
+40002:우리 위씨 집안은 군량과 각종 보물을 매매하는데 무기와 술이 제일 유명합니다!
+40003:우리 미씨 집안은 군량과 각종 보물을 매매하는데 여러 보물과 무기가 제일 유명합니다!
+40004:우리 진씨 집안은 군량과 각종 보물을 매매하는데 서적과 물약이 제일 유명합니다!
+40005:우리 채씨 집안은 군량과 각종 보물을 매매하는데 여러 보물과 의복이 제일 유명합니다!
+40006:우리 육씨 집안은 군량과 각종 보물을 매매하는데 서적과 악기가 제일 유명합니다!
+40007:%1$s 대인님, 이번 방문은 %2$s 에 대한 심득을 논의하기 위함인데, 휘하의 어떤 분과 의견을 나눌 수 있는지 궁금하군요!
 40008:금일 %1$s 선생님과 %2$s 의 소감을 상담하여 많이 배웠습니다! %2$s 경험치가 증가되었습니다.
-40009:%1$s 대인님, 이번 방문은 %2$s 병법에 대한 소감을 상담하러 왔습니다. 휘하의 어떤 분과 상담할 수 있을까요!
+40009:%1$s 대인님, 이번 방문은 %2$s 병법에 대한 심득을 논의하기 위함인데, 휘하의 어떤 분과 병법에 대한 의견을 나눌 수 있는지 궁금하군요!
 40010:금일 %1$s 선생님과 %2$s 병법을 상담해서 많이 배웠습니다!
-40024:유비대인님이 기르는 말 중에 【오환마】 가 천리마의 기질이 있으니 단독으로 조련해 보세요.
+40024:유비 대인님이 기르는 말 중에 【오환마】가 천리마의 기질이 있으니 단독으로 조련해 보세요.
 40025:장사:주공, 【오환마】 한 마리 획득하였습니다.
-40026:조운님과 얘기는 정말 즐거웠습니다. 특별히 치농방면에 대해 많이 배웠습니다.
+40026:조운님과의 얘기는 정말 즐거웠습니다. 특별히 농사 방면에 대해 많이 배웠습니다.
 40027:조운님과 인연이 있어 이번 방문으로 병법 【천문】 선물로 드립니다!
 40028:제가 기사회생의 능력이 있는데 이번엔 유비대인님이 어떤 분을 살리려고 요청하는 겁니까?
 40029:의가는 죽음에 처한 사람을 구조하고 부상자를 돌봐야 합니다. 유비대인 휘하에 부상이나 질병에 앓고 있는 사람이 치료가 필요한가요?
@@ -9173,8 +9173,8 @@
 40032:유비대인님, 저는 무예를 대결하러 왔습니다. 휘하의 어떤 분이 함께 대결할 수 있는가요!
 40033:%s 선생님과 대화할 수 있어서 엄청난 영광입니다!
 40034:무척 죄송합니다. 이번엔 아군에는 선생님과 토론할 사람이 없습니다.
-40035:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff"> 계략을 토론하였습니다. </code><code color="0xfffaaf00">%2$s </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff"> 경험치가 증가되었습니다.</code></codelist>
-40036:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff"> 을(를) 토론하였습니다. </code><code color="0xfffaaf00">%2$s </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff"> 경험치가 증가되었습니다 </code></codelist>
+40035:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff"> 계략에 대해 토론했습니다. </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff"> 경험치가 증가했습니다.</code></codelist>
+40036:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff">에 대해 토론했습니다. </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff"> 경험치가 증가했습니다.</code></codelist>
 40037:%1$s 대인의 휘하 %2$s, 일편단심으로 충성하고 의리가 있어 대임을 줄 수 있습니다!
 40038:%1$s 대인의 휘하 %2$s, 사리사욕에 눈이 어두워 의리마저 저버리니 등용을 주의하세요!
 40039:%1$s 대인의 휘하 %2$s, 평범하여 대임을 감당하기는 어려우나, 쓰려면 쓸 수는 있습니다!
@@ -9189,96 +9189,96 @@
 40048:^40044
 40049:^40044
 40050:^40044
-40051:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 님이 충성스럽고 의리가 있다고 역ㅂ니다. </code><code color="0xffff00ff">%2$s </code><code color="0xffffffff">명성 +200. 충성도 +1.</code></codelist>
-40052:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 님이 이익만 있으면 의리를 잊는다고 여깁니다. </code><code color="0xffff00ff">%2$s </code><code color="0xffffffff">명성 -200.</code></codelist>
-40053:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 님이 평범하다고 여깁니다. </code><code color="0xffff00ff">%2$s </code><code color="0xffffffff">명성 -50.</code></codelist>
-40054:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 님이 군략에 정통하다고 여깁니다. </code><code color="0xffff00ff">%2$s </code><code color="0xffffffff">명성 +400. 충성도 +1.</code></codelist>
-40055:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 님이 매우 좋은 무장이라고 여깁니다. </code><code color="0xffff00ff">%2$s </code><code color="0xffffffff">명성 +400. 충성도 +1.</code></codelist>
-40056:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 님이 지모가 풍부하다고 여깁니다. </code><code color="0xffff00ff">%2$s </code><code color="0xffffffff">명성 +400. 충성도 +1.</code></codelist>
-40057:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 님이 정무를 잘 처리할 수 있다고 여깁니다. </code><code color="0xffff00ff">%2$s </code><code color="0xffffffff">명성 +400. 충성도 +1.</code></codelist>
+40051:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 충성스럽고 의리가 있다고 여깁니다. </code><code color="0xffff00ff">%2$s</code><code color="0xffffffff"> 명성 +200. 충성도 +1.</code></codelist>
+40052:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 이익만 있으면 의리를 잊는다고 여깁니다. </code><code color="0xffff00ff">%2$s</code><code color="0xffffffff"> 명성 -200.</code></codelist>
+40053:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 평범하다고 여깁니다. </code><code color="0xffff00ff">%2$s</code><code color="0xffffffff"> 명성 -50.</code></codelist>
+40054:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 군략에 정통하다고 여깁니다. </code><code color="0xffff00ff">%2$s</code><code color="0xffffffff"> 명성 +400. 충성도 +1.</code></codelist>
+40055:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 매우 좋은 무장이라고 여깁니다. </code><code color="0xffff00ff">%2$s</code><code color="0xffffffff"> 명성 +400. 충성도 +1.</code></codelist>
+40056:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 지모가 풍부하다고 여깁니다. </code><code color="0xffff00ff">%2$s</code><code color="0xffffffff"> 명성 +400. 충성도 +1.</code></codelist>
+40057:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님은 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 정무를 잘 처리할 수 있다고 여깁니다. </code><code color="0xffff00ff">%2$s</code><code color="0xffffffff"> 명성 +400. 충성도 +1.</code></codelist>
 40058:%s 대인 휘하에 사람이 없어 인재를 많이 등용해야 됩니다!
 40059:저도 세력이 미비하여 사용할 수 있는 사람이 없어 고민하고 있습니다!
 40060:제가 봤을 때 %1$s 님은 체질이 약해 수명은 %2$s 세로, 복이 적어 수명이 짧으니 조심해야 합니다!
 40061:제가 봤을 때 %1$s 님은 체질이 건강하여 수명은 %2$s 세로, 일생이 무사할 것입니다!
 40062:제가 봤을 때 %1$s 님은 체질이 건강하여 수명은 %2$s 세로, 장수하실 겁니다!
 40063:%1$s 선생님의 점괘에 감사합니다!
-40064:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 점복으로 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수명은 </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff">세인 것이 밝혀졌습니다.</code></codelist>
+40064:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 점복으로 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수명은 </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff">세인 것이 밝혀졌습니다.</code></codelist>
 40065:%1$s 대인님이 기르는 말 중에 【%2$s】은(는) 천리마의 기질이 있으니 단독으로 조련해 보세요.
 40066:%s 선생님의 덕분에 좋은 말을 얻게 되었습니다!
-40067:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 말 판별로 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">을(를) 획득하였습니다.</code></codelist>
+40067:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 말 판별로 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">을(를) 획득하였습니다.</code></codelist>
 40068:%1$s 님과 얘기는 정말 재밌었습니다. 특별히 %2$s 방면에서 많이 배웠습니다.
 40069:금일 %1$s 님의 소견으로 %2$s 경험치가 증가하였습니다!
-40070:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님을 일깨워 줘서, </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의  </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff"> 경험치가 증가되었습니다.</code></codelist>
+40070:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님을 일깨워 줘서, </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의  </code><code color="0xffff00ff">%3$s</code><code color="0xffffffff"> 경험치가 증가되었습니다.</code></codelist>
 40071:%s 대인님 세력이 미비하고 인재가 없으니 인재를 많이 등용하십시오!
 40072:선가는 기사회생의 능력이 있는데 %s 대인은 어떤 분의 수명을 연장하시려고 하시는지요?
 40073:선생님의 도움을 받아 영광입니다!
 40074:죄송합니다. 아군에는 수명을 연장할 사람이 없습니다.
 40075:%1$s 선인의 축복으로 %2$s 의 수명이 연장된 것 같습니다!
-40076:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 수명을 </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff">년 연장했습니다.</code></codelist>
-40077:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 건강을 회복하여 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님은 </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff">년 수명이 연장되었습니다.</code></codelist>
+40076:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 수명을 </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff">년 연장했습니다.</code></codelist>
+40077:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 건강을 회복하여 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님은 </code><code color="0xffff00ff">%3$s </code><code color="0xffffffff">년 수명이 연장되었습니다.</code></codelist>
 40078:의원은 죽음에 처한 사람을 구조하고 부상자를 돌보는 것이 일입니다. %s 대인의 휘하에 부상질병을 치료 받을 사람이 있는가요?
 40079:명의님의 도움받아 살았습니다. 정말 감사합니다!
 40080:정말 죄송합니다. 아군에는 치료 받을 사람이 없습니다.
 40081:명의 %1$s 님의 치료를 받아 회복하였습니다. 어찌 보답할지 모르겠습니다. 일단 은혜에 대한 감사로 절부터 올리겠습니다!
-40082:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 건강을 회복하였습니다</code></codelist>
+40082:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 건강을 회복하였습니다</code></codelist>
 40083:%1$s 대인님, 【 %2$s 】 선물로 드리니 적합한 시기에 사용하세요.
 40084:%1$s 선생님의 신약 선물에 감사 드립니다!
-40085:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 을(를) 선물로 드렸습니다.</code></codelist>
+40085:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 을(를) 선물로 드렸습니다.</code></codelist>
 40086:%s 대인님이 신병무기를 원하시면 제가 제조할 수 있습니다.
 40087:정말 죄송합니다. 아군은 제조할 무기가 필요하지 않습니다
 40088:%1$s 님이 아군에게 제조로 【 %2$s 】 획득하였습니다!
-40089:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 제조하였습니다.</code></codelist>
+40089:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s </code><code color="0xffffffff"> 제조하였습니다.</code></codelist>
 40090:%1$s 대인님, 저는 무예를 대결하러 왔습니다. 휘하의 어떤 분이 함께 대결할 수 있는가요!
 40091:주공이 출전 기회를 주셔서 영광입니다. 기대를 저버리지 않겠습니다!
 40092:정말 죄송합니다. 아군에는 선생님과 대결할 사람이 없습니다.
 40093:주공, 사명을 저버리지 않고 %1$s 님을 이겨서 승리하였습니다! 무력 경험치가 증가되었습니다.
 40094:저와 %1$s 님은 막상막하입니다! 무력 경험치가 증가되었습니다!
 40095:%1$s 님의 무력이 강하여 이기지 못하였습니다! 무력 경험치가 증가되였습니다
-40096:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 대결에서 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 승리하여 무력 경험치가 증가되었습니다.</code></codelist>
-40097:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 대결에서 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 비겨서 무력 경험치가 증가되었습니다.</code></codelist>
-40098:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 대결에서 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 패배하여 무력 경험치가 증가되었습니다.</code></codelist>
+40096:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 대결에서 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 승리하여 무력 경험치가 증가되었습니다.</code></codelist>
+40097:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 대결에서 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 비겨서 무력 경험치가 증가되었습니다.</code></codelist>
+40098:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 대결에서 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 패배하여 무력 경험치가 증가되었습니다.</code></codelist>
 40099:%1$s 님과 인연이 있어 이번 방문으로 병법 【%2$s】 선물로 드립니다!
 40100:요즘 다행히 %1$s병법을 가르치는데 %2$s습득했습니다!
-40101:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">전수합니다</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">병법, </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">병법을 얻습니다</code><code color="0xffffff00">%3$s</code><code color="0xffffffff">.</code></codelist>
-40102:<codelist><code color="0xffffffff"></code><code color="0xffffffff">중산</code><code color="0xfffaaf00">장가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
-40103:<codelist><code color="0xffffffff"></code><code color="0xffffffff">중산</code><code color="0xfffaaf00">견가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
-40104:<codelist><code color="0xffffffff"></code><code color="0xffffffff">하동</code><code color="0xfffaaf00">위가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
-40105:<codelist><code color="0xffffffff"></code><code color="0xffffffff">서주</code><code color="0xfffaaf00">미가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
-40106:<codelist><code color="0xffffffff"></code><code color="0xffffffff">파촉</code><code color="0xfffaaf00">진가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
-40107:<codelist><code color="0xffffffff"></code><code color="0xffffffff">형주</code><code color="0xfffaaf00">채가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
-40108:<codelist><code color="0xffffffff"></code><code color="0xffffffff">오군</code><code color="0xfffaaf00">육가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
-40109:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명사 </code><code color="0xfffaaf00">사마휘</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40110:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명사 </code><code color="0xfffaaf00">이형</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40111:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명사 </code><code color="0xfffaaf00">관로</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40112:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명사 </code><code color="0xfffaaf00">주건평</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40113:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명사 </code><code color="0xfffaaf00">허소</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40114:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명사 </code><code color="0xfffaaf00">정현</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40115:<codelist><code color="0xffffffff"></code><code color="0xffffffff">전설의 선인 </code><code color="0xfffaaf00">남화노선</code><code color="0xffffffff">님이 본성에 출현하였습니다.</code></codelist>
-40116:<codelist><code color="0xffffffff"></code><code color="0xffffffff">전설의 선인 </code><code color="0xfffaaf00">좌자</code><code color="0xffffffff">님이 본성에 출현하였습니다.</code></codelist>
-40117:<codelist><code color="0xffffffff"></code><code color="0xffffffff">전설의 선인 </code><code color="0xfffaaf00">우길</code><code color="0xffffffff">님이 본성에 출현하였습니다.</code></codelist>
-40118:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명의 </code><code color="0xfffaaf00">화타</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
-40119:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명의 </code><code color="0xfffaaf00">왕숙화</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
-40120:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명의 </code><code color="0xfffaaf00">왕숙화</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
-40121:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명의 </code><code color="0xfffaaf00">동봉</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
-40122:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명의 </code><code color="0xfffaaf00">오보</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
-40123:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명의 </code><code color="0xfffaaf00">번아</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
-40124:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명의 </code><code color="0xfffaaf00">이당지</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
-40125:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명장인 </code><code color="0xfffaaf00">정혼</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40126:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명장인 </code><code color="0xfffaaf00">포원</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40127:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명장인 </code><code color="0xfffaaf00">곽달</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40128:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">왕월</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40129:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">사아</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40130:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">한룡</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40131:<codelist><code color="0xffffffff"></code><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">축공도</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
-40132:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 </code><code color="0xffff00ff"> %4$s </code><code color="0xffffffff"> 소감 상담으로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 </code><code color="0xffff00ff"> %4$s </code><code color="0xffffffff"> 경험치가 증가되었습니다.</code></codelist>
-40133:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님을 일깨워 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 </code><code color="0xffff00ff"> %4$s </code><code color="0xffffffff"> 경험치가 증가되었습니다.</code></codelist>
-40134:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 건강을 회복하여 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 5년 수명이 연장되었습니다.</code></codelist>
-40135:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 건강을 회복하였습니다.</code></codelist>
-40136:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 대결로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 승리해서 </code><code color="0xffffffff">무력 경험치가 증가되었습니다</code></codelist>
-40137:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 대결로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 비겨서 </code><code color="0xffffffff">무력 경험치가 증가되었습니다</code></codelist>
-40138:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 대결로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 패배해서 </code><code color="0xffffffff">무력 경험치가 증가되었습니다</code></codelist>
-40139:<codelist><code color="0xffffffff"></code><code color="0xffffffff">들리는 소문으로는 </code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 </code><code color="0xff00ff00"> %3$s </code><code color="0xffffffff">지역을 방문했다고 합니다.</code></codelist>
-40140:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님의 지도를 받고, 태학의 특훈 횟수가 %2$s 개 더 늘어났습니다.</code></codelist>
+40101:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">전수합니다</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">병법, </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">병법을 얻습니다</code><code color="0xffffff00">%3$s</code><code color="0xffffffff">.</code></codelist>
+40102:<codelist><code color="0xffffffff">중산</code><code color="0xfffaaf00">장가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
+40103:<codelist><code color="0xffffffff">중산</code><code color="0xfffaaf00">견가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
+40104:<codelist><code color="0xffffffff">하동</code><code color="0xfffaaf00">위가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
+40105:<codelist><code color="0xffffffff">서주</code><code color="0xfffaaf00">미가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
+40106:<codelist><code color="0xffffffff">파촉</code><code color="0xfffaaf00">진가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
+40107:<codelist><code color="0xffffffff">형주</code><code color="0xfffaaf00">채가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
+40108:<codelist><code color="0xffffffff">오군</code><code color="0xfffaaf00">육가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
+40109:<codelist><code color="0xffffffff">명사 </code><code color="0xfffaaf00">사마휘</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40110:<codelist><code color="0xffffffff">명사 </code><code color="0xfffaaf00">이형</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40111:<codelist><code color="0xffffffff">명사 </code><code color="0xfffaaf00">관로</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40112:<codelist><code color="0xffffffff">명사 </code><code color="0xfffaaf00">주건평</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40113:<codelist><code color="0xffffffff">명사 </code><code color="0xfffaaf00">허소</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40114:<codelist><code color="0xffffffff">명사 </code><code color="0xfffaaf00">정현</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40115:<codelist><code color="0xffffffff">전설의 선인 </code><code color="0xfffaaf00">남화노선</code><code color="0xffffffff">님이 본성에 출현하였습니다.</code></codelist>
+40116:<codelist><code color="0xffffffff">전설의 선인 </code><code color="0xfffaaf00">좌자</code><code color="0xffffffff">님이 본성에 출현하였습니다.</code></codelist>
+40117:<codelist><code color="0xffffffff">전설의 선인 </code><code color="0xfffaaf00">우길</code><code color="0xffffffff">님이 본성에 출현하였습니다.</code></codelist>
+40118:<codelist><code color="0xffffffff">명의 </code><code color="0xfffaaf00">화타</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
+40119:<codelist><code color="0xffffffff">명의 </code><code color="0xfffaaf00">왕숙화</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
+40120:<codelist><code color="0xffffffff">명의 </code><code color="0xfffaaf00">왕숙화</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
+40121:<codelist><code color="0xffffffff">명의 </code><code color="0xfffaaf00">동봉</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
+40122:<codelist><code color="0xffffffff">명의 </code><code color="0xfffaaf00">오보</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
+40123:<codelist><code color="0xffffffff">명의 </code><code color="0xfffaaf00">번아</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
+40124:<codelist><code color="0xffffffff">명의 </code><code color="0xfffaaf00">이당지</code><code color="0xffffffff">님이 이번 달에 본성을 방문하여, 더 많은 부상병들이 회복되었습니다.</code></codelist>
+40125:<codelist><code color="0xffffffff">명장인 </code><code color="0xfffaaf00">정혼</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40126:<codelist><code color="0xffffffff">명장인 </code><code color="0xfffaaf00">포원</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40127:<codelist><code color="0xffffffff">명장인 </code><code color="0xfffaaf00">곽달</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40128:<codelist><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">왕월</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40129:<codelist><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">사아</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40130:<codelist><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">한룡</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40131:<codelist><code color="0xffffffff">명검객 </code><code color="0xfffaaf00">축공도</code><code color="0xffffffff">님이 이번 달에 본성을 방문합니다.</code></codelist>
+40132:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 </code><code color="0xffff00ff"> %4$s </code><code color="0xffffffff"> 소감 상담으로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 </code><code color="0xffff00ff"> %4$s </code><code color="0xffffffff"> 경험치가 증가되었습니다.</code></codelist>
+40133:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님을 일깨워 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 </code><code color="0xffff00ff"> %4$s </code><code color="0xffffffff"> 경험치가 증가되었습니다.</code></codelist>
+40134:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 건강을 회복하여 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 5년 수명이 연장되었습니다.</code></codelist>
+40135:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 건강을 회복하였습니다.</code></codelist>
+40136:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 대결로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 승리해서 </code><code color="0xffffffff">무력 경험치가 증가되었습니다</code></codelist>
+40137:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 대결로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 비겨서 </code><code color="0xffffffff">무력 경험치가 증가되었습니다</code></codelist>
+40138:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님과 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님의 대결로 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님이 패배해서 </code><code color="0xffffffff">무력 경험치가 증가되었습니다</code></codelist>
+40139:<codelist><code color="0xffffffff">들리는 소문으로는 </code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님의 </code><code color="0xff00ff00"> %3$s </code><code color="0xffffffff">지역을 방문했다고 합니다.</code></codelist>
+40140:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님의 지도를 받고, 태학의 특훈 횟수가 %2$s 개 더 늘어났습니다.</code></codelist>
 40141:이 술이 왜 갑자기 쉰거야?
 40142:제가 직접 선생께 가르침을 받겠습니다.
 40143:선생의 가르침을 받았습니다.
@@ -9362,13 +9362,13 @@
 29034:^29031
 29035:^29028
 29036:^29028
-29037:장벽병기
-29038:수성전 투석 병기. 도시방어 2000 이상 도시의 성벽에 설치 가능.
+29037:적의 진입을 저지할 수 있는 병기
+29038:수성전 투석 병기. 도성방어 2000 이상 도시의 성벽에 설치 가능.
 29039:공성병기
-29040:수성전 원거리 사격 병기, 도시방어 3000 이상 도시의 성벽에 설치 가능.
+29040:수성전 원거리 사격 병기, 도성방어 3000 이상 도시의 성벽에 설치 가능.
 29041:공성병기
 29042:공성병기
-29043:수성전 방어 병기, 도시방어 4000 이상 도시의 성벽에 설치 가능.
+29043:수성전 방어 병기, 도성방어 4000 이상 도시의 성벽에 설치 가능.
 29044:수면에서 불을 지르기 위한 도구
 29045:수군용 소형 전선
 29046:^29045
@@ -10398,7 +10398,7 @@
 36193:민심+100, 인구 증가량이 상승했습니다.
 36194:^36193
 36195:민심-300, 금+20000, 군량+80000
-36196:도시방어+1000, 군량+30000
+36196:도성방어+1000, 군량+30000
 36197:학원효과증가30%
 36198:^36197
 36199:매월 인구3천~5천명 증가, 반년 동안 지속됨.
@@ -16086,7 +16086,7 @@
 521:^5622
 522:^5621
 523:^5623
-524:도성방위
+524:도성방어
 525:^5625
 526:병기:
 527:함선:
@@ -16111,7 +16111,7 @@
 546:^6155
 547:문화
 548:^79
-549:<codelist><code color="0xfffaaf0a">%1$s</code><code color="0xffffffff">군대가 우리측으로 진공</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">, 총병력 %3$d.</code></codelist>
+549:<codelist><code color="0xfffaaf0a">%1$s</code><code color="0xffffffff">군대 우리측으로 진공</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">, 총병력 %3$d.</code></codelist>
 550:<codelist><code color="0xfffaaf0a">%1$s</code><code color="0xffffffff">군대 우리측으로 진공</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">, 총병력 %3$d, 예상 %4$d 일 도달.</code></codelist>
 551:^73
 552:^73
@@ -16204,8 +16204,8 @@
 641:<codelist><code ts="56">%1$s</code><code ts="42">부대가</code><code ts="21">%2$s</code><code ts="42">을(를) 발동했습니다.</code></codelist>
 642:<codelist><code ts="56">%1$s</code><code ts="42">부대가</code><code ts="21">%2$d</code><code ts="42">피해를 입었습니다.</code></codelist>
 643:<codelist><code ts="56">%1$s</code><code ts="42">부대가</code><code ts="21">%2$s상태입니다.</code></codelist>
-644:<codelist><code ts="56">%1$s</code><code ts="42">부대사기</code><code ts="21">%2$d 상승</code></codelist>
-645:<codelist><code ts="56">%1$s</code><code ts="42">부대사기</code><code ts="21">-%2$d 하락</code></codelist>
+644:<codelist><code ts="56">%1$s</code><code ts="42">부대 사기</code><code ts="21">%2$d 상승</code></codelist>
+645:<codelist><code ts="56">%1$s</code><code ts="42">부대 사기</code><code ts="21">%2$d 하락</code></codelist>
 646:<codelist><code ts="56">%1$s</code><code ts="42">부대가 </code><code ts="56">%2$s</code><code ts="42">부대에 일기토를 신청했습니다.</code></codelist>
 647:<codelist><code ts="56">%1$s</code><code ts="42">부대가</code><code ts="21">%2$s을(를) 발동했지만 실패했습니다.</code></codelist>
 648:<codelist><code ts="56">%1$s</code><code ts="42">부대가 </code><code ts="56">%2$s</code><code ts="42">부대에 </code><code ts="21">%3$s을(를) 발동해 성공했습니다.</code></codelist>
@@ -16576,11 +16576,11 @@
 1712:인사
 1713:^544
 1714:^545
-1715:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 내정개발로</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">의 %3$s 수치가 %4$d(+ %5$d )이 되었습니다.</code></codelist>
+1715:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 내정개발로</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">의 %3$s 수치가 %4$d(+ %5$d )이 되었습니다.</code></codelist>
 1716:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 등용을 성공적으로 완수했습니다.</code></codelist>
 1717:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 등용에 실패했지만, 친밀도가 조금 상승했습니다.</code></codelist>
-1718:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 성에 돌아왔습니다.</code></codelist>
-1719:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 성에 돌아왔습니다.</code></codelist>
+1718:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 성에 돌아왔습니다.</code></codelist>
+1719:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 성에 돌아왔습니다.</code></codelist>
 1720:이번에 자신있습니다. 좋은 소식 기다리십시오.
 1721:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님을 발견했습니다.</code></codelist>
 1722:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">에서 보물인</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">을(를) 발견했습니다.</code></codelist>
@@ -16598,8 +16598,8 @@
 1734:군사력이 막 강하구나! 곧 재출정할 수 있다!
 1735:소원대로 해준다!
 1736:이젠 다시 전쟁하지 않아도 되겠구나!
-1737:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 </code><code color="0xff00faff">%2$s</code><code color="0xffffffff">임무를 취소했습니다.</code></codelist>
-1738:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군단 이미<code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 돌아왔습니다.</code><code color="0xffffffff">, 부상병이 %3$d 회복했습니다.</code></codelist>
+1737:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 </code><code color="0xff00faff">%2$s</code><code color="0xffffffff">임무를 취소했습니다.</code></codelist>
+1738:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군단 이미<code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 돌아왔습니다.</code><code color="0xffffffff">, 부상병이 %3$d 회복했습니다.</code></codelist>
 1739:<codelist><code color="0xffffffff">-------------------- %d 년 %s ------------------------</code></codelist>
 1740:<codelist><code color="0xffffffff">-------------------------------------------------------</code></codelist>
 1741:<code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xff00afff">%3$s</code><code color="0xffffffff">의뢰를 완수했습니다.</code>
@@ -16621,24 +16621,24 @@
 1757:<code>군주명성 %1$s%2$d. </code>
 1758:<code>무장명성 %1$s%2$d. </code>
 1759:<code color="0xffffffff">보물 </code><code color="0xffffff00">%s</code><code color="0xffffffff"> 획득.</code>
-1760:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">%2$s부족해서</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">의 징병 작업 중지했습니다.</code></codelist>
+1760:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">%2$s부족해서</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">의 징병 작업 중지했습니다.</code></codelist>
 1761:징병가능한 인구
-1762:<codelist><code color="0xffffffff"></code><code color="0xffffff00">%1$s</code><code color="0xffffffff">훈련이 완료되어</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 훈련을 중지했습니다.</code></codelist>
-1763:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 농업개발을 중지했습니다.</code></codelist>
-1764:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 상업개발을 중지했습니다.</code></codelist>
-1765:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 수리개발을 중지했습니다.</code></codelist>
-1766:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 치안개발을 중지했습니다.</code></codelist>
-1767:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 도시방어 개발을 중지했습니다.</code></codelist>
+1762:<codelist><code color="0xffffff00">%1$s</code><code color="0xffffffff">훈련이 완료되어</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 훈련을 중지했습니다.</code></codelist>
+1763:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 농업개발을 중지했습니다.</code></codelist>
+1764:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 상업개발을 중지했습니다.</code></codelist>
+1765:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 수리개발을 중지했습니다.</code></codelist>
+1766:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 치안개발을 중지했습니다.</code></codelist>
+1767:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">자금이 부족해서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 도성방어 개발을 중지했습니다.</code></codelist>
 1768:농업개발은 상한에 도달했습니다!
 1769:상업개발은 상한에 도달했습니다!
 1770:수리개발은 상한에 도달했습니다!
 1771:치안개발은 상한에 도달했습니다!
-1772:도시방어 개발은 상한에 도달했습니다!
-1773:<codelist><code color="0xffffffff">농업개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">농업개발을 중지했습니다.</code></codelist>
-1774:<codelist><code color="0xffffffff">상업개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">상업개발을 중지했습니다.</code></codelist>
-1775:<codelist><code color="0xffffffff">수리개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">수리개발을 중지했습니다.</code></codelist>
-1776:<codelist><code color="0xffffffff">치안개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">치안개발을 중지했습니다.</code></codelist>
-1777:<codelist><code color="0xffffffff">도시방어개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">도시방어 개발을 중지했습니다.</code></codelist>
+1772:도성방어 개발은 상한에 도달했습니다!
+1773:<codelist><code color="0xffffffff">농업개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 농업개발을 중지했습니다.</code></codelist>
+1774:<codelist><code color="0xffffffff">상업개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 상업개발을 중지했습니다.</code></codelist>
+1775:<codelist><code color="0xffffffff">수리개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 수리개발을 중지했습니다.</code></codelist>
+1776:<codelist><code color="0xffffffff">치안개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 치안개발을 중지했습니다.</code></codelist>
+1777:<codelist><code color="0xffffffff">도성방어개발이 상한에 도달해서 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 도성방어 개발을 중지했습니다.</code></codelist>
 1778:게임을 종료하겠습니까?
 1779:자금은 부족해서 개발은 불가능합니다.
 1780:저장 성공했습니다!
@@ -16646,8 +16646,8 @@
 1782:적부대가 변경에 도착하는데 요격하겠습니까?
 1783:적부대가 성외에 도착하는데 요격하겠습니까?
 1784:징병 가능한 인구가 부족해서 징병은 불가능합니다.
-1785:<code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xff00afff">%3$s</code><code color="0xffffffff">의뢰를 수행했습니다.</code>
-1786:<code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xff00afff">%3$s</code><code color="0xffffffff">의뢰를 무난하게 수행했습니다.</code>
+1785:<code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xff00afff">%3$s</code><code color="0xffffffff">의뢰를 수행했습니다.</code>
+1786:<code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xff00afff">%3$s</code><code color="0xffffffff">의뢰를 무난하게 수행했습니다.</code>
 1787:도시점령
 1788:^83
 1789:^84
@@ -16664,8 +16664,8 @@
 1800:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code>%3$s</code><code color="0xffffffff">님과 우연히 만났습니다.</code><code color="0xffffffff">그는 점을 봐서 수명은 %4$d 세입니다!</code></codelist>
 1801:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code>%3$s</code><code color="0xffffffff">님과 우연히 만났습니다.</code><code color="0xfffaaf00"><code color="0xffffffff">그는 우리쪽의 </code><code color="0xfffaaf00">%4$s</code><code color="0xffffffff">님의 점을 봐 수명이 %5$d세라고 알려줍니다!</code></codelist>
 1802:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 우연히 만났습니다.</code><code color="0xffffffff">그의 전수를 받아서 %4$s 경험이 증가했습니다.</code></codelist>
-1803:<codelist><code color="0xfffaaf00">%1$s</code>님이 <code color="0xffffffff"></code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 우연히 만났습니다.</code><code color="0xffffffff">그의 전수를 받아서 %4$s을(를) 습득했습니다.</code></codelist>
-1804:<code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">진행하는</code><code color="0xff00afff">%3$s</code><code color="0xffffffff">실패했습니다.</code>
+1803:<codelist><code color="0xfffaaf00">%1$s</code>님이 <code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 우연히 만났습니다.</code><code color="0xffffffff">그의 전수를 받아서 %4$s을(를) 습득했습니다.</code></codelist>
+1804:<code color="0xfffaaf00">%1$s</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">진행하는</code><code color="0xff00afff">%3$s</code><code color="0xffffffff">실패했습니다.</code>
 1805:나는 모든 것을 잘 처리하겠습니다!
 1806:주공의 오른팔이 되고 싶습니다!
 1807:주공의 눈과 귀가 되고 싶습니다!
@@ -16673,7 +16673,7 @@
 1809:%s 의 태수방침 공략(%s)으로 설정합니다.
 1810:%s 에 태수가 아직 없습니다!
 1811:<code color="0xffffffff">백성들이 우리가 </code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의</code><code color="0xff00afff"> %2$s </code><code color="0xffffffff">완성하지 못한 것에 대해 불만이 있습니다.</code>
-1812:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">에서 </code><code color="0xffffffff">보물</code><code color="0xffffff00">%3$s</code><code color="0xffffffff">을(를) 발견했습니다.</code></codelist>
+1812:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">에서 </code><code color="0xffffffff">보물</code><code color="0xffffff00">%3$s</code><code color="0xffffffff">을(를) 발견했습니다.</code></codelist>
 1813:수송할 군량이 부족합니다!
 1814:<code color="0xffffffff">백성들이 우리가 </code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의</code><code color="0xff00afff"> %2$s </code><code color="0xffffffff">에 대해 사람을 파견하지 못해서 불만이 있습니다.</code>
 1815:<code color="0xfffaaf00">%1$s </code><code color="0xff0000ff"> %2$s </code><code color="0xffffffff">당했습니다.</code>
@@ -16741,22 +16741,22 @@
 2203:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의 군주 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 포로가 되었습니다!</code></codelist>
 2204:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력은 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다.</code></codelist>
 2205:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 사망했습니다!</code></codelist>
-2206:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 자녀 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 우리 세력에 가입했습니다!</code></codelist>
+2206:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 자녀 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 우리 세력에 가입했습니다!</code></codelist>
 2207:</code><code color="0xffffffff">님
 2208:</code><code color="0xffffffff">님 등 %1$d 명의 무장
 2209:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 사망했습니다.</code></codelist>
 2210:<codelist><code color="0xffffffff">성인이 된 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"> 님이 임관하였습니다.</code></codelist>
-2211:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%s</code><code color="0xffffffff">사망했습니다.</code></codelist>
-2212:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%s</code><code color="0xffffffff">출사 완료됐습니다.</code></codelist>
-2213:<codelist><code color="0xffffffff"></code><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력은 우리가 지배하던 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다.</code></codelist>
-2214:<codelist><code color="0xffffffff"></code><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력은 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다.</code></codelist>
+2211:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">사망했습니다.</code></codelist>
+2212:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">출사 완료됐습니다.</code></codelist>
+2213:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력은 우리가 지배하던 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다.</code></codelist>
+2214:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력은 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다.</code></codelist>
 2215:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의 군주</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 사망했습니다!</code></codelist>
-2216:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 공격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 승리헸습니다.</code></codelist>
-2217:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 공격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 실패헸습니다.</code></codelist>
-2218:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 요격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 승리헸습니다.</code></codelist>
-2219:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 요격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 실패헸습니다.</code></codelist>
-2220:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 방어했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 승리헸습니다.</code></codelist>
-2221:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 방어했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 실패헸습니다.</code></codelist>
+2216:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 공격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 승리헸습니다.</code></codelist>
+2217:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 공격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 실패헸습니다.</code></codelist>
+2218:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 요격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 승리헸습니다.</code></codelist>
+2219:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 요격했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 실패헸습니다.</code></codelist>
+2220:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 방어했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 승리헸습니다.</code></codelist>
+2221:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 방어했습니다.</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">군대가 실패헸습니다.</code></codelist>
 2222:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">기습했습니다. 총병력은 %2$d이고 요격하겠습니까?</code></codelist>
 2223:비고:무장의 수학 속성이 높을수록 개발에 필요한 자금도 많이 감소할 것입이다.
 2224:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의 군주</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 사망했습니다!</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 계승했습니다.</code></codelist>
@@ -16770,14 +16770,14 @@
 2306:오월
 2307:형초
 2308:소수민족
-2309:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의 이번 분기 자금 수입:%2$d, 녹봉 지출:%3$d, 군량 지출:%4$d</code></codelist>
-2310:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의 금년 군량 수입:%2$d</code></codelist>
-2311:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역으로 이동했습니다.</code></codelist>
-2312:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 수송된 세금이 도착함. 합계:%3$d</code></codelist>
-2313:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 수송된 병량이 도착함. 합계:%3$d</code></codelist>
+2309:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의 이번 분기 자금 수입:%2$d, 녹봉 지출:%3$d, 군량 지출:%4$d</code></codelist>
+2310:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의 금년 군량 수입:%2$d</code></codelist>
+2311:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역으로 이동했습니다.</code></codelist>
+2312:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 수송된 세금이 도착함. 합계:%3$d</code></codelist>
+2313:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 수송된 병량이 도착함. 합계:%3$d</code></codelist>
 2314:%d/%d
 2315:%d 개월
-2316:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">수송대 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">에 성공 도착했습니다.</code></codelist>
+2316:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">수송대 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">에 성공 도착했습니다.</code></codelist>
 2317:%s:%d
 2318:↑
 2319:%d→%d
@@ -16883,8 +16883,8 @@
 2808:<codelist><code color="0xffffffff">하늘이 도와 날씨가 좋습니다!</code><p/><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 금년은</code><code color="0xff0000ff">풍년</code><code color="0xffffffff">입니다!</code>%2$s</codelist>
 2809:<codelist><code color="0xffffffff">각지에서 원성이 들끓어 수습이 안됩니다!</code><p/><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서 </code><code color="0xff0000ff">폭동</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
 2810:<codelist><code color="0xffffffff">연이은 재해로 유랑민이 넘쳐납니다! </code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서 </code><code color="0xff0000ff">유랑민 전입</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
-2811:등의 지역
-2812:등 %1$d 도시
+2811: 등의 지역
+2812: 등 %1$d 도시
 2813:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">는</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">에 대해</code><code color="0xffff00ff">" %3$s"</code><code color="0xffffffff">발동을 했습니다!</code></codelist>
 2814:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffff00ff">%2$s</code><code color="0xffffffff">발동을 했습니다!</code></codelist>
 2815:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">부대 사기가 높아서 성벽을 올라갔습니다!</code></codelist>
@@ -17403,7 +17403,7 @@
 9927:사운드
 9928:Luoyang뮤직
 9929:<codelist><code color="0xfffaaf00">%1$s</code><code>, 나는 너와 설전을 겨루고 싶은데, 네가 감히 응전할 수 있겠는가?</code></codelist>
-9930:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%s</code><code color="0xffffffff">우리 세력에 합류하십시오!</code></codelist>
+9930:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">우리 세력에 합류하십시오!</code></codelist>
 9931:헌상
 9932:부여
 9933:한나라 황궁
@@ -17540,7 +17540,7 @@
 25064:선택/확인
 25065:돌아가기
 25066:튜토리얼
-25067:<codelist><code color="0xffffffff">이번 달에</code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">지역 백성들이 내정에 협조하여 내정 효과가 큰 폭으로 상승합니다.</code></codelist>
+25067:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">지역 백성들이 내정에 협조하여 내정 효과가 큰 폭으로 상승합니다.</code></codelist>
 25068:도입
 25069:도출
 25070:<codelist><code>타세력 전략중...</code></codelist>
@@ -17779,24 +17779,24 @@
 55016:시간 총계
 55017:수집 무장
 55018:수집 보물
-60000:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "인재탐색으로 누적 %d 명 무장 발견" 달성하였습니다!</code></codelist>
-60001:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "세력에 보유한 무장 총 수량 %d 명" 달성하였습니다!</code></codelist>
-60002:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "세력에 보유한 보물 총 수량 %d 개" 달성하였습니다!</code></codelist>
-60003:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "누적 점령한 도시수량 %d 개" 달성하였습니다!</code></codelist>
-60004:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "동시 %d 개 대도시 보유" 달성하였습니다!</code></codelist>
-60005:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "동시에 업, 낙양, 건업, 양양, 성도, 허창, 장안을 거성으로 발전" 달성하였습니다!</code></codelist>
-60006:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "누적 %d 회 야전 진행" 달성하였습니다!</code></codelist>
-60007:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "누적 %d 회 공성전 진행" 달성하였습니다!</code></codelist>
-60008:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "누적 %d 회 대결 진행" 달성하였습니다!</code></codelist>
-60009:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "별도의 %d 개 세력으로 게임 진행" 달성하였습니다!</code></codelist>
-60010:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "게임에서 누적 %d 개 세력 소멸" 달성하였습니다!</code></codelist>
-60011:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "190년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
-60012:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "195년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
-60013:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "200년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
-60014:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "임의 시나리오 누적통과 %d 회 달성" 달성하였습니다!</code></codelist>
-60015:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "게임에서 누적 플레이시간 %d 시간 달성" 달성하였습니다!</code></codelist>
-60016:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "207년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
-60017:<codelist><code color="0xffffffff"></code><code color="0xffffffff">업적 "201년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
+60000:<codelist><code color="0xffffffff">업적 "인재탐색으로 누적 %d 명 무장 발견" 달성하였습니다!</code></codelist>
+60001:<codelist><code color="0xffffffff">업적 "세력에 보유한 무장 총 수량 %d 명" 달성하였습니다!</code></codelist>
+60002:<codelist><code color="0xffffffff">업적 "세력에 보유한 보물 총 수량 %d 개" 달성하였습니다!</code></codelist>
+60003:<codelist><code color="0xffffffff">업적 "누적 점령한 도시수량 %d 개" 달성하였습니다!</code></codelist>
+60004:<codelist><code color="0xffffffff">업적 "동시 %d 개 대도시 보유" 달성하였습니다!</code></codelist>
+60005:<codelist><code color="0xffffffff">업적 "동시에 업, 낙양, 건업, 양양, 성도, 허창, 장안을 거성으로 발전" 달성하였습니다!</code></codelist>
+60006:<codelist><code color="0xffffffff">업적 "누적 %d 회 야전 진행" 달성하였습니다!</code></codelist>
+60007:<codelist><code color="0xffffffff">업적 "누적 %d 회 공성전 진행" 달성하였습니다!</code></codelist>
+60008:<codelist><code color="0xffffffff">업적 "누적 %d 회 대결 진행" 달성하였습니다!</code></codelist>
+60009:<codelist><code color="0xffffffff">업적 "별도의 %d 개 세력으로 게임 진행" 달성하였습니다!</code></codelist>
+60010:<codelist><code color="0xffffffff">업적 "게임에서 누적 %d 개 세력 소멸" 달성하였습니다!</code></codelist>
+60011:<codelist><code color="0xffffffff">업적 "190년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
+60012:<codelist><code color="0xffffffff">업적 "195년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
+60013:<codelist><code color="0xffffffff">업적 "200년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
+60014:<codelist><code color="0xffffffff">업적 "임의 시나리오 누적통과 %d 회 달성" 달성하였습니다!</code></codelist>
+60015:<codelist><code color="0xffffffff">업적 "게임에서 누적 플레이시간 %d 시간 달성" 달성하였습니다!</code></codelist>
+60016:<codelist><code color="0xffffffff">업적 "207년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
+60017:<codelist><code color="0xffffffff">업적 "201년 시나리오 1회 통과" 달성하였습니다!</code></codelist>
 61000:일태이묘
 61001:^31047
 61002:^31027
@@ -18671,7 +18671,7 @@
 71412:%s 님이 내방했습니다. 주공 휘하의 한 무장을 평가하여, 명성을 떨쳐 드릴 수 있습니다.
 71413:군주 명성 + 무장 명성 +
 71414:학문 교류
-71415:%s님이 내방했습니다. 한 명의 무장과 "%s" 속성의 경험을 교류할 수 있습니다.
+71415:%s님이 내방했습니다. 한 명의 무장과 "%s" 의 경험을 교류할 수 있습니다.
 71416:속성 경험 +
 71417:특훈 횟수
 71418:%s님이 내방했습니다. 태학에 별도의 특훈 횟수를 제공해 드릴 수 있습니다.
@@ -18683,7 +18683,7 @@
 71424:%s님이 내방했습니다. 무작위로 한 무장의 수명을 점칠 수 있습니다.
 71425:수명 예측
 71426:속성 향상
-71427:%s님이 내방했습니다. 임의로 한 무장의 "%s" 속성 경험을 한 번 향상시킬 수 있습니다.
+71427:%s님이 내방했습니다. 임의로 한 무장의 "%s" 경험을 한 번 향상시킬 수 있습니다.
 71428:^71416
 71429:병법 전수
 71430:%s님이 내방했습니다. "%s" 병법이 없는 한 무장에게 직접 습득시킬 수 있습니다.
@@ -18706,7 +18706,7 @@
 71447:계략
 71448:%s월%d일
 71449:<codelist><code color="0xffffffff">%1$d 금을 써서</code><code color="0xffffff00">%2$s</code><code color="0xffffffff">등</code><code color="0xffffffff">%3$d개의 보물을 사겠습니까?</code></codelist>
-71450:<codelist><code color="0xffffffff"></code><code color="0xffffff00">%1$s</code><code color="0xffffffff">등</code><code color="0xffffffff">%2$d개의 보물을 팔아서 %3$d 금으로 바꾸겠습니까?</code></codelist>
+71450:<codelist><code color="0xffffff00">%1$s</code><code color="0xffffffff">등</code><code color="0xffffffff">%2$d개의 보물을 팔아서 %3$d 금으로 바꾸겠습니까?</code></codelist>
 71451:목숨을 구함, 수명을 연장시킴, 병법을 전수함
 71452:병법을 가르침, 능력을 향상시킴, 말관상, 특훈 증가, 책 쓰기
 71453:중경상 치료, 약품 증정
@@ -18788,7 +18788,7 @@
 71529:기술 일람
 71530:속성 일람
 71531:기계과학기술 아직 개발되지 않아 사용할 수 없습니다.
-71532:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님을 발견하여 등용합니다.</code></codelist>
+71532:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님을 발견하여 등용합니다.</code></codelist>
 71533:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 탐색 중에 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님을 발견하여 이야기를 나눕니다.</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 주공에게 의탁하길 바라고 있습니다.</code></codelist>
 71534:세상의 혼란 황건봉기
 71535:도원결의
@@ -19192,7 +19192,7 @@
 71933:퇴위효과
 71934:군주가 퇴위한 후 태수, 군단장이나 계승자가 될 수가 없다.관지를 얻을 수 못한다.
 71935:자립성공률
-71936:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님을 파견해 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역 태수에게</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">구호탄랑을 실시합니다.</code></codelist>
+71936:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님을 파견해 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역 태수에게</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">구호탄랑을 실시합니다.</code></codelist>
 71937:<codelist><code>주공께서는 </code><code color="0xfffaaf00">%1$s</code><code>에게 넘겨주고 자리에서 물러나는 것을 결정했습니까? </code></codelist>
 71938:<codelist><code>%1$d년%2$d월</code><code color="0xff00ff00">%3$s</code><code>양위하여 </code><code color="0xfffaaf00">%4$s</code><code></code><code color="0xff00ffff">%5$s</code><code>세력의 새 군주가 되었습니다.</code></codelist>
 71939:항복권고성공
@@ -19220,7 +19220,7 @@
 71961:데이터 업데이트 성공!
 71962:닉네임은 이미 점용되었습니다, 다시 입력해주세요.
 71963:변경 사항 없음. 수정이 필요한 경우 수정 후 확인 부탁드립니다.
-71964:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">%2$d</code><code color="0xffffff00">%3$s</code></codelist>모집했다.
+71964:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">%2$d</code><code color="0xffffff00">%3$s</code></codelist>모집했다.
 71965:서버 버전과 클라이언트가 다릅니다, 클라이언트를 업데이트해주세요.
 71966:주의:닉네임 문자가 비어 있으면 안 됩니다.
 71967:보호 기간임으로 구호탄랑을 실행할 수 없습니다.남은 보호 시간 %d월
@@ -19304,21 +19304,21 @@
 72046:<codelist><code>해상에 고탑이 나타났으니, 탐색할 수 있습니다.</code></codelist>
 72047:<codelist><code>설산에 고탑이 나타났으니, 탐색할 수 있습니다.</code></codelist>
 72048:<codelist><code>설산에 고탑이 나타났으니, 탐색할 수 있습니다.</code></codelist>
-72049:</code><code color="0xffffffff">등 %1$d이민족
-72050:</code><code color="0xffffffff">등 도적
-72051:<codelist><code>도적 부활: 밀정의 보고에 의하면 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에 많은 도적들이 모이고 있다고 합니다. 주공, 조심하세요.</code></codelist>
-72052:</code><code color="0xffffffff">등 %1$d도적
-72053:</code><code color="0xffffffff">등 이민족
-72054:<codelist><code>이민족 부활: 밀정의 보고에 의하면 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에 많은 병마가 모이고 있다고 합니다. 주공, 조심하세요.</code></codelist>
+72049:</code><code color="0xffffffff">등에 %1$ 도적
+72050:</code><code color="0xffffffff">등에 도적
+72051:<codelist><code>도적 부활: 밀정의 보고에 의하면 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">이 있고, 더 많은 도적들이 모여들고 있다고 합니다. 주공, 조심하셔야 합니다.</code></codelist>
+72052:</code><code color="0xffffffff">등에 %1$d 이민족
+72053:</code><code color="0xffffffff">등에 이민족
+72054:<codelist><code>이민족 부활: 밀정의 보고에 의하면 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">이 있고, 더 많은 병마가 모여들고 있다고 합니다. 주공, 조심하셔야 합니다.</code></codelist>
 72055:폐기
 72056:<codelist><code color="0xff00ffff">%1$s</code><code>진영 도시 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 도적에게 함락당했다.</code></codelist>
 72057:<codelist><code color="0xff00ffff">%1$s</code><code>진영 도시 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 이민족에게 함락당했다.</code></codelist>
 72058:<codelist><code color="0xfffaaf00">%1$s</code><code> 주공의 위명을 듣고 성의껏 귀순합니다.</code></codelist>
-72059:<codelist><code>이민족 공성승리 :</code><code color="0xff00ffff">%1$s</code><code>군대 모으고 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">공략해서 대량 자원을 뺏하였다.</code></codelist>
+72059:<codelist><code>이민족 공성 승리:</code><code color="0xff00ffff">%1$s</code><code>군대 모으고 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">공략해서 대량 자원을 노획하였다.</code></codelist>
 72060:<codelist><code>이민족이 보물을 바치기 위해</code><code color="0xff00ffff">%1$s</code><code>님을 사자로 보내왔습니다. 주공에게 </code><code color="0xffffff00">%2$s</code><code>을(를) 공물로 진상할 것입니다.</code></codelist>
 72061:<codelist><code>이민족 병력 증여:주공님 </code><code color="0xff00ffff">%1$s</code><code> 와서 우리에게 5000</code><code color="0xffffff00">%2$s선물했습나다.</code></codelist>
 72062:<codelist><code>이민족이 실패해서 공성이 됐다. </code><code color="0xff00ffff">%1$s</code><code>들을 물리치고 뿔뿔이 흩어져 도망갔다. </code></codelist>
-72063:<codelist><code>이민족 부활: 밀정 보고에 따라 </code><code color="0xff00ffff">%1$s</code><code>에 모이는 병마가 많습니다. 주공님 조심하세요. </code></codelist>
+72063:<codelist><code>이민족 부활: 밀정의 보고에 의하면 </code><code color="0xff00ffff">%1$s</code><code>이 있고, 더 많은 병마가 모여들고 있다고 합니다. 주공, 조심하셔야 합니다.</code></codelist>
 72064:<codelist><code>비적의 난이 없어져서 공성이 됐다. </code><code color="0xff00ffff">%1$s</code><code>들을 물리치고 뿔뿔이 흩어져 도망갔다. </code></codelist>
 72065:침입소식
 72066:병력 파견함
@@ -19328,7 +19328,7 @@
 72070:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">주공의 선물을 받고도 출병의 기미가 보이지 않는 것을 보니, 그들은 흐지부지할 생각인 것 같습니다.</code></codelist>
 72071:DLC내용을 선택하세요.
 72072:용등호소
-72073:<codelist><code>밀정 보고에 의하면 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에 모이는 도적들이 많다고 합니다. 주공, 조심하셔야 합니다.</code></codelist>
+72073:<codelist><code>밀정의 보고에 의하면 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">이 있고, 더 많은 도적들이 모여들고 있다고 합니다. 주공, 조심하셔야 합니다.</code></codelist>
 72074:<codelist><code color="0xff00ffff">%1$s</code><code> 군대를 결집해서 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 돌파하고 대량 자원을 빼았다.</code></codelist>
 72075:<codelist><code color="0xff00ffff">%1$s</code><code>의 도적들이 패주하였고, 다음과 같은 보물을 노획했습니다: </code><code color="0xff00ffff">%2$s</code><code>, </code><code color="0xff00ffff">%3$s</code><code>, </code><code color="0xff00ffff">%4$s</code></codelist>
 72076:누구냐? 빨리 모습을 드러내라!?
@@ -19948,7 +19948,7 @@
 86229:'편집'중 세력편집은 세력의 외교와 기술을 편집할 수 있습니다. 도시편집은 무장속성이나 프로필을 편집할 수 있고 도시편집은 도시속성과 병력을 편집할 수 있습니다.
 86230:지금 사건을 클릭하여 무슨 중요한 정무을 해야 하는지 함께 봅시다.
 86231:지금 무슨 정무를 해야 하는지 함께 봅시다.
-86232:내정은 속성이 5개 포함됩니다. '농업'은 군량의 수입에 영향을 주고, '상업'은 금전 수입에 영향을 주며, '수리'는 재해를 입는 확률과 소량의 군량 수입에, '치안'은 폭동이 일어나는 확률과 민심에 영향을 주며, '도시방어'는 도시 방어의 내구력 및 효율에 영향을 줍니다.
+86232:내정은 속성이 5개 포함됩니다. '농업'은 군량의 수입에 영향을 주고, '상업'은 금전 수입에 영향을 주며, '수리'는 재해를 입는 확률과 소량의 군량 수입에, '치안'은 폭동이 일어나는 확률과 민심에 영향을 주며, '도성방어'는 도시 방어의 내구력 및 효율에 영향을 줍니다.
 86233:지금 무장 한 명을 뽑아 농업을 관리합시다.
 86234:농업 속성이 가장 높은 무장을 선택하십시오.
 86235:내정발전을 위한 투자자금을 선택하십시오. 투자자금이 많을 수록 내정이 크게 발전하지만 내정수치가 높을 수록 내정발전을 위해 투자해야할 자금은 증가합니다.
@@ -20283,8 +20283,8 @@
 6672:%d 개월
 6673:사용 가능한 군량
 6674:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">가 주공에게 의기소침하고 있습니다. 하야시키세요!</code></codelist>
-6675:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의 도시특성</code><code color="0xffff00ff">%2$s</code><code color="0xffffffff">이(가) 활성화 됩니다</code></codelist>
-6676:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의 도시특성</code><code color="0xffff00ff">%2$s</code><code color="0xffffffff">취소</code></codelist>
+6675:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의 도시특성</code><code color="0xffff00ff">%2$s</code><code color="0xffffffff">이(가) 활성화 됩니다</code></codelist>
+6676:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의 도시특성</code><code color="0xffff00ff">%2$s</code><code color="0xffffffff">취소</code></codelist>
 6677:^2531
 6678:^15168
 6679:통수개
@@ -20589,9 +20589,9 @@
 8190:남은시간:
 8191:시작화면으로 돌아가겠습니까?
 8192:<codelist><code color="0xffffffff">우리측</code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대 대</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
-8193:<codelist><code color="0xffffffff"></code><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">군대 대</code><code color="0xff00ffff">%3$s</code><code color="0xffffffff">세력의</code><code color="0xff00ff00">%4$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
+8193:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">군대 대</code><code color="0xff00ffff">%3$s</code><code color="0xffffffff">세력의</code><code color="0xff00ff00">%4$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
 8194:<codelist><code color="0xffffffff">우리측</code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대 대</code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
-8195:<codelist><code color="0xffffffff"></code><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">군대 대</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
+8195:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">군대 대</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
 8196:^783
 8197:원공
 8198:^784
@@ -20607,7 +20607,7 @@
 8208:분성이 없어서 방침 설정 불가능합니다.
 8209:분성이 없어서 천도 불가능합니다.
 8210:천도 자금부족해서 천도 불가능합니다.
-8211:<codelist><code color="0xffffffff"></code><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">군대 대 우리측</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
+8211:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">군대 대 우리측</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
 8212:폭풍우를 거쳐 마침내 대한천하의 통일을 보았다, 예전에 천하가 혼란스러울 때 마치 종말과 같아 삶의 낙이 없었다!
 8213:네!천하일통, 전군신, 평화를 위해 다시 구주에 강림하여 주공에게 힘이되겠습니다. 주공이 수십년간 꿈꿔온 전국의 평화를 위해 신 다시한번 달리겠습니다!
 8214:하하!( %1$s )아닙니다!, 저 혼자만의 힘으로 한게 아닙니다. 당신이 군막에서 전략전술을 세워 천리밖에서 승리를 만들어 내었는데 내 어찌 잊겠습니까!
@@ -20638,9 +20638,9 @@
 8239:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">군대 대 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">출병했습니다!</code></codelist>
 8240:필요무장
 8241:필요도시
-8242:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">일부 무장의 마음이 불편하여 충성도가 하락했습니다.</code></codelist>
-8243:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 부대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다. 적 장수 %3$d 명을 포박하고, 패잔병 %4$d 명을 회유했습니다. 성의 자금 %5$d, 군량 %6$d 만큼을 확보하고, 보물 %7$d 개를 획득했습니다.</code></codelist>
-8244:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 부대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다. 장수 %3$d 명이 포박되고, 패잔병 %4$d 명이 회유되었습니다. 성의 자금 %5$d, 군량 %6$d 만큼을 강탈당했고, 보물 %7$d 개를 뺏겼습니다.</code></codelist>
+8242:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">일부 무장의 마음이 불편하여 충성도가 하락했습니다.</code></codelist>
+8243:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 부대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다. 적 장수 %3$d 명을 포박하고, 패잔병 %4$d 명을 회유했습니다. 성의 자금 %5$d, 군량 %6$d 만큼을 확보하고, 보물 %7$d 개를 획득했습니다.</code></codelist>
+8244:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님의 부대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역을 점령했습니다. 장수 %3$d 명이 포박되고, 패잔병 %4$d 명이 회유되었습니다. 성의 자금 %5$d, 군량 %6$d 만큼을 강탈당했고, 보물 %7$d 개를 뺏겼습니다.</code></codelist>
 8245:^4059
 8246:가장 낮음
 8247:낮음
@@ -20653,8 +20653,8 @@
 8254:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">님이 경상에서 회복했습니다!</code></codelist>
 8255:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">님이 중상에서 회복했습니다!</code></codelist>
 8256:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">님이 건강을 회복했습니다. 수명 %d 년 연장합니다!</code></codelist>
-8257:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%s</code><code color="0xffffffff">님이 중상입혔습니다.</code></codelist>
-8258:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%s</code><code color="0xffffffff">님이 </code><code color="0xff0000ff">빈사</code><code color="0xffffffff">입니다.</code></codelist>
+8257:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">님이 중상입혔습니다.</code></codelist>
+8258:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">님이 </code><code color="0xff0000ff">빈사</code><code color="0xffffffff">입니다.</code></codelist>
 8259:<codelist><code color="0xfffaaf00">%s</code><code color="0xffffffff">유배하겠습니까?</code></codelist>
 8260:<codelist><code color="0xffffffff">여기가 아니더라도 나를 받아줄 곳이 있지!</code></codelist>
 8261:일기토를 감상하겠습니까?
@@ -20667,7 +20667,7 @@
 8268:실행여부
 8269:X
 8270:<code color="0xff00ffff">%1$s</code><code color="0xffffffff">세력의</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">부대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">성아래로 내려가봅니다!</code></codelist>
-8271:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">일기토에서 </code><code color="0xffffffff">%2$s </code><code color="0xffffffff">피해 입혔습니다</code><code color="0xffffffff">.</code></codelist>
+8271:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">일기토에서 </code><code color="0xffffffff">%2$s </code><code color="0xffffffff">피해 입혔습니다</code><code color="0xffffffff">.</code></codelist>
 8272:실행무장
 8273:<code color="0xffffffff">치안</code><code color="0xff00ff00">↑ </code>
 8274:<code color="0xffffffff">치안</code><code color="0xff0000ff">↓ </code>
@@ -20679,16 +20679,16 @@
 8280:<code color="0xffffffff">상업</code><code color="0xff0000ff">↓ </code>
 8281:<code color="0xffffffff">수리</code><code color="0xff00ff00">↑ </code>
 8282:<code color="0xffffffff">수리</code><code color="0xff0000ff">↓ </code>
-8283:<code color="0xffffffff">도시방어</code><code color="0xff00ff00">↑ </code>
-8284:<code color="0xffffffff">도시방어</code><code color="0xff0000ff">↓ </code>
+8283:<code color="0xffffffff">도성방어</code><code color="0xff00ff00">↑ </code>
+8284:<code color="0xffffffff">도성방어</code><code color="0xff0000ff">↓ </code>
 8285:<code color="0xffffffff">인구</code><code color="0xff00ff00">↑ </code>
 8286:<code color="0xffffffff">인구</code><code color="0xff0000ff">↓ </code>
 8287:<code color="0xffffffff">병사</code><code color="0xff00ff00">↑ </code>
 8288:<code color="0xffffffff">병사</code><code color="0xff0000ff">↓ </code>
 8289:종합
 8290:^19
-8291:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 지역을 점령했습니다. 성내 적무장 %3$d 명을 체포하고, 패잔병 %4$d 명을 포로로 잡고, 자금 %5$d, 군량 %6$d 만큼을 약탈하고, 보물 %7$d 개를 획득했습니다.</code></codelist>
-8292:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 지역을 점령했습니다. 우리 측 성내 무장 %3$d 명을 체포하고, 패잔병 %4$d 명을 포로로 잡고, 자금 %5$d, 군량 %6$d 만큼을 약탈하고, 보물 %7$d 개를 획득했습니다.</code></codelist>
+8291:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 지역을 점령했습니다. 성내 적무장 %3$d 명을 체포하고, 패잔병 %4$d 명을 포로로 잡고, 자금 %5$d, 군량 %6$d 만큼을 약탈하고, 보물 %7$d 개를 획득했습니다.</code></codelist>
+8292:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대가 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff"> 지역을 점령했습니다. 우리 측 성내 무장 %3$d 명을 체포하고, 패잔병 %4$d 명을 포로로 잡고, 자금 %5$d, 군량 %6$d 만큼을 약탈하고, 보물 %7$d 개를 획득했습니다.</code></codelist>
 8293:포로투항
 8294:포로석방
 8295:포로처단
@@ -20745,7 +20745,7 @@
 8346:정무 농업의 개발 속도, 민중이 내정 증가에 협조의 촉발에 영향줌.
 8347:정무 상업의 개발 속도, 민중이 내정 증가에 협조의 촉발에 영향줌.
 8348:정무 수리의 개발 속도, 민중이 내정 증가에 협조의 촉발에 영향줌.
-8349:정무 도시방어 개발 속도, 민중이 내정 증가에 협조의 촉발에 영향줌.
+8349:정무 도성방어 개발 속도, 민중이 내정 증가에 협조의 촉발에 영향줌.
 8350:정무 치안의 개발 속도, 민중이 내정 증가에 협조의 촉발에 영향줌.
 8351:과학기술 연구개발 시 비용 소모 감소에 영향줌.
 8352:무장이 야외에서 보물, 명사을 탐색할 확률에 영향줌.
@@ -20759,11 +20759,11 @@
 8360:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">시장을 수리해서 상업이 %3$d 상승했습니다.</code></codelist>
 8361:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">수로를 보수해서 수리가 %3$d 상승했습니다.</code></codelist>
 8362:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">거리를 순찰해서 치안이 %3$d 상승했습니다.</code></codelist>
-8363:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">성벽을 증축해서 도시방어가 %3$d 상승했습니다.</code></codelist>
-8364:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff"></code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하여 %4$s 경험이 증가했습니다.</code></codelist>
-8365:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff"></code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하여 %4$s 능력이 1상승하였습니다.</code></codelist>
-8366:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff"></code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하며 조언을 받아 %4$s 경험이 증가했습니다.</code></codelist>
-8367:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff"></code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하며 조언을 받아 %4$s 습득했습니다.</code></codelist>
+8363:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">성벽을 증축해서 도성방어가 %3$d 상승했습니다.</code></codelist>
+8364:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하여 %4$s 경험이 증가했습니다.</code></codelist>
+8365:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하여 %4$s 능력이 1상승하였습니다.</code></codelist>
+8366:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하며 조언을 받아 %4$s 경험이 증가했습니다.</code></codelist>
+8367:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">님과 </code><code color="0xffffffff">교류하며 조언을 받아 %4$s 습득했습니다.</code></codelist>
 8368:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">백성들의 군량 상납을 받아 군량 %3$d 획득했습니다.</code></codelist>
 8369:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">지주의 기부를 받아 군량 %3$d 획득했습니다.</code></codelist>
 8370:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xff00ff00">%2$s</code><code color="0xffffffff">지역에서 </code><code color="0xffffffff">상인의 상납을 받아 금전 %3$d 획득했습니다.</code></codelist>
@@ -20830,7 +20830,7 @@
 8431:<codelist><code color="0xffffffff">◇외교</code></codelist>
 8432:<codelist><code color="0xffffffff">◇책략</code></codelist>
 8433:<codelist><code color="0xffffffff">◇기타</code></codelist>
-8434:<codelist><code color="0xffffffff"></code><code color="0xffffffff">옥졸의 감시가 심하지 않아, </code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의 포로</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 탈옥에 성공했습니다.</code></codelist>
+8434:<codelist><code color="0xffffffff">옥졸의 감시가 심하지 않아, </code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">의 포로</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 탈옥에 성공했습니다.</code></codelist>
 8435:원군도시1
 8436:원군도시2
 8437:<codelist><code>휘하</code><code color="0xfffaaf00">%1$s</code><code>는 적과 내통하여</code><code color="0xff00ffff">%2$s</code><code>세력에 가입했습니다!</code></codelist>
@@ -20875,12 +20875,12 @@
 8476:<codelist><code color="0xffffffff">포로</code><code color="0xfffaaf00"> %s </code><code color="0xffffffff"> %s 석방되었다.</code></codelist>
 8477:도시
 8478:도시
-8479:<code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 문제없이 도착했습니다.</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역의</code>
-8480:<code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 재난이 발생해 물품이 유실됩니다.</code>
-8481:<code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 일부 물품이 손실됩니다.</code>
-8482:<code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 물품이 손실됩니다.</code>
-8483:<code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 절반정도의 물품이 손실됩니다.</code>
-8484:<code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 중상을 입고 대부분의 물품이 손실됩니다.</code>
+8479:<code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 문제없이 도착했습니다.</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역의</code>
+8480:<code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 재난이 발생해 물품이 유실됩니다.</code>
+8481:<code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 일부 물품이 손실됩니다.</code>
+8482:<code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 물품이 손실됩니다.</code>
+8483:<code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 절반정도의 물품이 손실됩니다.</code>
+8484:<code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님의 수송대가 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 수송하는 중 길에서 도적을 만나 중상을 입고 대부분의 물품이 손실됩니다.</code>
 8485:<code color="0xffffffff">병사 %1$s %2$d </code>
 8486:<code color="0xffffffff">금전 %1$s %2$d </code>
 8487:<code color="0xffffffff">군량 %1$s %2$d </code>
@@ -20919,7 +20919,7 @@
 8520:현재상업
 8521:현재수리
 8522:현재치안
-8523:도시방어
+8523:도성방어
 8524:성과명
 8525:완료
 8526:성과설명
@@ -20946,7 +20946,7 @@
 8547:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">세력에 파견되어 교섭합니다.</code></codelist>
 8548:<codelist><code color="0xffffffff">교섭에 성공했습니다.</code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력과 우호도가 상승했습니다.</code></codelist>
 8549:<codelist><code color="0xffffffff">교섭에 실패했습니다.</code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력이 우리 세력의 증여를 거절합니다.</code></codelist>
-8550:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력과 교섭을 취소했습니다.</code></codelist>
+8550:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력과 교섭을 취소했습니다.</code></codelist>
 8551:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력이 멸망해서 교섭을 실패했습니다.</code></codelist>
 8552:<codelist><code color="0xffffffff">상황이 변해 우리 세력의 교섭이 불가능합니다.</code></codelist>
 8553:<codelist><code color="0xffffffff">우리 세력과 </code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력이 동맹을 체결했습니다.</code><code color="0xffffffff">%2$d </code><code color="0xffffffff">개월동안 지속됩니다.</code><code color="0xfffaaf00">%3$s</code><code color="0xffffffff">세력과 우호도가 상승했습니다.</code></codelist>
@@ -20964,7 +20964,7 @@
 8565:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력의 동맹요구를 거절했습니다.</code></codelist>
 8566:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력이 우리 세력과의 동맹을 파기했습니다.</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">세력과의 우호도가 하락합니다.</code></codelist>
 8567:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력에 대한 권고가 성공합니다.</code></codelist>
-8568:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력의 권고를 거절했습니다.</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">세력과의 우호도가 하락했습니다.</code></codelist>
+8568:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">세력의 권고를 거절했습니다.</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">세력과의 우호도가 하락했습니다.</code></codelist>
 8569:^8563
 8570:물자를 대차 상환에 사용하도록 잘 조달해 주십시오.
 8571:%s 군세
@@ -20987,17 +20987,17 @@
 8588:%d(%d)
 8589:%d%s%d
 8590:군량 판매가:%4.2f
-8591:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 자금을 %2$d 대여합니다. 상환기간은 %3$d월입니다.</code></codelist>
-8592:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 군량을 %2$d 대여합니다. 상환기간은 %3$d월입니다.</code></codelist>
-8593:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 자금을 %2$d 상환했습니다.</code></codelist>
-8594:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 군량을 %2$d 상환했습니다.</code></codelist>
-8595:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 자금을 %2$d 대여합니다. 상환기간은 %3$d월입니다.</code></codelist>
-8596:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 군량을 %2$d 대여합니다. 상환기간은 %3$d월입니다.</code></codelist>
-8597:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 자금을 %2$d 상환했습니다.</code></codelist>
-8598:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 군량을 %2$d 상환했습니다.</code></codelist>
+8591:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 자금을 %2$d 대여합니다. 대여 기간은 %3$d개월입니다.</code></codelist>
+8592:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 군량을 %2$d 대여합니다. 대여 기간은 %3$d개월입니다.</code></codelist>
+8593:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 자금을 %2$d 상환했습니다.</code></codelist>
+8594:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 군량을 %2$d 상환했습니다.</code></codelist>
+8595:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 자금을 %2$d 대여합니다. 대여 기간은 %3$d개월입니다.</code></codelist>
+8596:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에서 군량을 %2$d 대여합니다. 대여 기간은 %3$d개월입니다.</code></codelist>
+8597:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 자금을 %2$d 상환했습니다.</code></codelist>
+8598:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">에게 군량을 %2$d 상환했습니다.</code></codelist>
 8599:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대(</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">원군)출정</code><code color="0xff00ff00">%3$s.</code></codelist>
 8600:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대(</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">원군)출정</code><code color="0xff00ff00">%3$s.</code></codelist>
-8601:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대 <code color="0xff00ff00">%2$s</code>에 돌아왔습니다.</code></codelist>
+8601:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대 </code><code color="0xff00ff00">%2$s</code>에 돌아왔습니다.</code></codelist>
 8602:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력과</code><code color="0xff00ffff">%3$s</code><code color="0xffffffff">세력에게 이간을 실행했습니다.</code></codelist>
 8603:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xff00ffff">%2$s</code><code color="0xffffffff">세력의</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">지역에 유언 실행했습니다.</code></codelist>
 8604:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">파견하여</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님에게 농락을 실행했습니다.</code></codelist>
@@ -21056,9 +21056,9 @@
 8657:사관
 8658:없음
 8659:관직임명에 변화가 있습니다. 나가겠습니까?
-8660:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의</code><code color="0xffffffff">부상병이 이번 달 %2$d명 회복했습니다.</code></codelist>
-8661:<codelist><code color="0xffffffff">세력 중신에 변화가 있습니다. 다시 임명하세요.</code></codelist>
-8662:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 주공에게 불만이 있어 하야합니다!</code></codelist>
+8660:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역의 부상병이 %2$d명 회복했습니다.</code></codelist>
+8661:<codelist><code color="0xffffffff">세력의 중신에 변화가 있습니다. 다시 임명하세요.</code></codelist>
+8662:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 주공에게 불만을 품고 하야합니다!</code></codelist>
 8663:무장명
 8664:관도대전, 맹덕 오소 습격
 8665:효율
@@ -21092,16 +21092,16 @@
 8693:<codelist><code color="0xffffffff">비가 오지않아 땅이 메말라 가고 있습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">가몸</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
 8694:<codelist><code color="0xffffffff">지룡이 꿈틀거립니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">지진</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
 8695:<codelist><code color="0xffffffff">바람이 강력하고 폭우를 주의해야 합니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">태풍</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
-8696:<codelist><code color="0xffffffff">눈이 끊임없이 오고 사람들이 얼어죽습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">폭설</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
+8696:<codelist><code color="0xffffffff">눈이 끊임없이 내려서 사람들이 얼어죽고 있습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">폭설</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
 8697:<codelist><code color="0xffffffff">메뚜기떼가 군량을 먹어치우고 있습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">황재</code><code color="0xffffffff">가 발생했습니다!</code>%2$s</codelist>
 8698:<codelist><code color="0xffffffff">대재해 후 역병이 돌고 있습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">역병</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
 8699:<codelist><code color="0xffffffff"> 각지에서 빈번하게 재해가 일어나 수확에 어려움이 있습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">금년</code><code color="0xff0000ff">흉작</code><code color="0xffffffff">입니다!</code> %2$s </codelist>
 8700:<codelist><code color="0xffffffff"> 각지에서 빈번하게 재해가 일어나 수확에 어려움이 있습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">금년</code><code color="0xff0000ff">풍년</code><code color="0xffffffff">입니다!</code> %2$s </codelist>
 8701:<codelist><code color="0xffffffff">각지에서 불만을 가진 사람들이 날뛰고 있습니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">폭동</code><code color="0xffffffff">발생했습니다!</code>%2$s</codelist>
 8702:<codelist><code color="0xffffffff">주변에서 전쟁이 끊이질 않아 유랑민들이 몰려듭니다!</code><code color="0xff00ff00">%1$s</code><code color="0xffffffff">에서</code><code color="0xff0000ff">유민전입</code><code color="0xffffffff">이 발생했습니다!</code>%2$s</codelist>
-8703:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%s</code><code color="0xffffffff">지역 병사가 금전부족으로 도망갔습니다.</code></codelist>
-8704:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%s</code><code color="0xffffffff">지역 병사가 군량부족으로 도망갔습니다.</code></codelist>
-8705:<codelist><code color="0xffffffff"></code><code color="0xff00ff00">%s </code><code color="0xffffffff">지역 병사가 금전과 군량부족으로 도망갔습니다.</code></codelist>
+8703:<codelist><code color="0xff00ff00">%s</code><code color="0xffffffff">지역 병사가 금전 부족으로 도망갔습니다.</code></codelist>
+8704:<codelist><code color="0xff00ff00">%s</code><code color="0xffffffff">지역 병사가 군량 부족으로 도망갔습니다.</code></codelist>
+8705:<codelist><code color="0xff00ff00">%s</code><code color="0xffffffff">지역 병사가 금전과 군량 부족으로 도망갔습니다.</code></codelist>
 8706:자금 부족해서 진행 불가능합니다!
 8707:전부위임
 8708:농업수리
@@ -21176,7 +21176,7 @@
 8777:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">탈옥 성공했습니다.</code></codelist>
 8778:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">대인께서 큰 일을 준비하고 계시니 참여하심이 어떠신지요?</code></codelist>
 8779:<codelist><code color="0xffffffff">군상께서 큰뜻을 가지고 계시니 저를 신하로 쓰시는게 어떠십니까?!</code></codelist>
-8780:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">, 군상의 말이되어 큰일을 하고 싶습니다.어떠십니까?</code></codelist>
+8780:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">, 군상의 말이되어 큰일을 하고 싶습니다.어떠십니까?</code></codelist>
 8781:금일 장군을 얻어, 가뭄에 단비가 온 기분입니다!
 8782:내가 장군을 얻었으니, 큰 일을 성사시킬 수 있을꺼 같습니다!
 8783:내가 장군을 얻었으니, 물과 고기를 다 얻은것 같군요!
@@ -21190,7 +21190,7 @@
 8791:전장포로
 8792:<codelist><code color="0xff00ff00">%1$s</code><code color="0xffffffff">지역에서 보물</code><code color="0xffffff00">%2$s</code><code color="0xffffffff">을(를) 생산했습니다.</code></codelist>
 8793:간신배, 너와는 함께할수 없다!!!
-8794:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대</code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">기습합니다. 총병력 %2$d 이고 %4$d 일에 도착 예정입니다. 요격하시겠습니까?</code></codelist>
+8794:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">군대 </code><code color="0xff00ff00">%3$s</code><code color="0xffffffff">기습합니다. 총병력 %2$d 이고 %4$d 일에 도착 예정입니다. 요격하시겠습니까?</code></codelist>
 8795:<codelist><code color="0xffffffff">주공, </code><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">과 우리측관계가 좋습니다, 공격 시 악명만 높아질꺼 같습니다!</code></codelist>
 8796:<codelist><code color="0xffffffff">주공, 맹우를 공격하는 것은 의를 저버리고 스스로 천하를 등지는 것과 같습니다!</code></codelist>
 8797:<codelist><code color="0xff00ffff">%1$s</code><code color="0xffffffff">과 우리측 우호도가 '험악'으로 변화해서 동맹에 실패했습니다. 외교관계가 '적대'로 변화했습니다. 군주의 명성 -%2$d, 악명 +%3$d, 휘하 무장의 충성도 하락했습니다.</code></codelist>
@@ -21224,7 +21224,7 @@
 8825:상업설정
 8826:민심설정
 8827:수리설정
-8828:도시방어설정
+8828:도성방어설정
 8829:부상병설정
 8830:경험설정
 8831:사기설정
@@ -21295,7 +21295,7 @@
 8896:농업하락
 8897:상업하락
 8898:수리하락
-8899:도시방어하락
+8899:도성방어하락
 8900:치안하락
 8901:상한
 8902:<code color="0xfffaaf00">%1$s </code><code color="0xffffffff">군대가 원군호출에 호응하여 출전했습니다!</code>
@@ -21479,22 +21479,22 @@
 9080:정무속성
 9081:인사속성
 9082:외교속성
-9083:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">부대가</code><code color="0xffff00ff"> %2$s </code><code color="0xffffffff">촉발했습니다.</code></codelist>
-9084:광전:보통공격, 공격범위내 최대 3개적에게 피해
-9085:돌파:보병, 궁병에게 사용"돌격"전법 성공시, 피해증가
-9086:반격:창진상태시 기병피해증가, 피해반사증가
-9087:무외:사기하락없음
-9088:불굴:혼란, 도발, 공포, 위보효과 영향없음
-9089:진주:보병, 궁병에게 사용"돌격"전법성공시, 피해증가, 100%혼란
-9090:횡소:보통공격, 창진상태시 전병종피해상승, 피해반사증가
-9091:등갑:면역 보병, 궁병공격
-9092:장구:기동력증가
-9093:독화살:원거리공격 확률로"독화살효과"
-9094:난사:사용"분사"시, 공격범위내 최대3개적에게 피해
-9095:선등:강등확률증가
-9096:강격:보통공격, 창진상태시 기병피해증가, 피해반사증가
-9097:천답:전병종에게 발동"돌격"100%성공, 100%혼란
-9098:연사:보통공격 연속3번피해
+9083:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">부대 기술 발동 - </code><code color="0xffff00ff">%2$s</code></codelist>
+9084:광전:보통 공격시, 공격 범위 내 최대 3개 적에게 피해
+9085:돌파:보병, 궁병에게 "돌격" 전법 성공시, 피해 증가
+9086:반격:창진 상태에서 기병에게 피해 반사 증가
+9087:무외:사기 하락 없음
+9088:불굴:혼란, 도발, 공포, 위보 효과 영향 없음
+9089:질주:보병, 궁병에게 "돌격" 전법 성공시, 피해 증가, 100% 혼란
+9090:횡소:창진 상태에서 전병종 피해 반사 증가
+9091:등갑:견수 상태에서 보병/궁병 공격 면역, 화염 공격시 추가 피해
+9092:장구:기동력 증가
+9093:독화살:원거리 공격시 일정 확률로 "독화살" 발사, 방어 무시
+9094:난사:"분사" 사용시, 공격 범위 내 최대 3개 적에게 피해
+9095:선등:성벽에 올라갈 확률 대폭 증가, 성벽에 있을 때 받는 피해 대폭 증가
+9096:강격:창진 상태에서 기병 피해 반사 대폭 증가
+9097:천답:모든 병종에 "돌격" 사용시 반드시 성공하고 100% 혼란, 화염 공격을 받으면 추가 피해를 입고 광폭 상태가 됨
+9098:연사:보통 공격 연속 3회
 9099:^9084
 9100:^9085
 9101:^9086
@@ -21739,9 +21739,9 @@
 9340:하마 경기병
 9341:하마 중기병
 9342:자동작성
-9343:<codelist><code color="0xffffffff"></code><code color="0xfffaaf00"> %s </code><code color="0xff0000ff">빈사</code><code color="0xffffffff">입니다.</code></codelist>
-9344:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"></code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">에게 구호탄랑이 성공했습니다.</code></codelist>
-9345:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff"></code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">에게 구호탄랑이 실패했습니다.</code></codelist>
+9343:<codelist><code color="0xfffaaf00"> %s </code><code color="0xff0000ff">빈사</code><code color="0xffffffff">입니다.</code></codelist>
+9344:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">에게 구호탄랑이 성공했습니다.</code></codelist>
+9345:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">에게 구호탄랑이 실패했습니다.</code></codelist>
 9400:위무휘편
 9401:천하효예
 9402:장구직입
