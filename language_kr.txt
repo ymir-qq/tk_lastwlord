@@ -2090,7 +2090,7 @@
 10653:영
 10654:령
 10655:냉
-10656:릉
+10656:능
 10657:릉
 10658:령
 10659:영호
@@ -3680,7 +3680,7 @@
 12559:모감
 12560:황란
 12561:팽호
-12562:장군 장군
+12562:강족 장령
 12563:운*한수
 12564:우*백마
 12565:밀*낙신
@@ -9239,7 +9239,7 @@
 40098:<codelist><code color="0xfffaaf00">%1$s </code><code color="0xffffffff">님과 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 대결에서 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff"> 님이 패배하여 무력 경험치가 증가되었습니다.</code></codelist>
 40099:%1$s 님과 인연이 있어 이번 방문으로 병법 【%2$s】 선물로 드립니다!
 40100:요즘 다행히 %1$s병법을 가르치는데 %2$s습득했습니다!
-40101:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">전수합니다</code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">병법, </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">병법을 얻습니다</code><code color="0xffffff00">%3$s</code><code color="0xffffffff">.</code></codelist>
+40101:<codelist><code color="0xfffaaf00">%1$s</code><code color="0xffffffff">님이 </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님에게 병법을 전수합니다. </code><code color="0xfffaaf00">%2$s</code><code color="0xffffffff">님이 </code><code color="0xffffff00">%3$s</code><code color="0xffffffff">병법을 얻었습니다.</code></codelist>
 40102:<codelist><code color="0xffffffff">중산</code><code color="0xfffaaf00">장가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
 40103:<codelist><code color="0xffffffff">중산</code><code color="0xfffaaf00">견가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
 40104:<codelist><code color="0xffffffff">하동</code><code color="0xfffaaf00">위가대상</code><code color="0xffffffff">이 이번 달에 본성 방문 예정입니다.</code></codelist>
@@ -19318,7 +19318,7 @@
 72060:<codelist><code>이민족이 보물을 바치기 위해</code><code color="0xff00ffff">%1$s</code><code>님을 사자로 보내왔습니다. 주공에게 </code><code color="0xffffff00">%2$s</code><code>을(를) 공물로 진상할 것입니다.</code></codelist>
 72061:<codelist><code>이민족 병력 증여:주공님 </code><code color="0xff00ffff">%1$s</code><code> 와서 우리에게 5000</code><code color="0xffffff00">%2$s선물했습나다.</code></codelist>
 72062:<codelist><code>이민족이 실패해서 공성이 됐다. </code><code color="0xff00ffff">%1$s</code><code>들을 물리치고 뿔뿔이 흩어져 도망갔다. </code></codelist>
-72063:<codelist><code>이민족 부활: 밀정의 보고에 의하면 </code><code color="0xff00ffff">%1$s</code><code>이 있고, 더 많은 병마가 모여들고 있다고 합니다. 주공, 조심하셔야 합니다.</code></codelist>
+72063:<codelist><code>이민족 부활: 밀정의 보고에 의하면 </code><code color="0xff00ffff">%1$s</code><code>에 많은 병마가 모여들고 있다고 합니다. 주공, 조심하셔야 합니다.</code></codelist>
 72064:<codelist><code>비적의 난이 없어져서 공성이 됐다. </code><code color="0xff00ffff">%1$s</code><code>들을 물리치고 뿔뿔이 흩어져 도망갔다. </code></codelist>
 72065:침입소식
 72066:병력 파견함
@@ -20347,7 +20347,7 @@
 7053:편집기는 게임내 열기 상태의 설정, 만약 취소를 하면 모든 편집은 게임내 사용 불가능합니다.
 7054:해상도 설정은 1920*1080, 1280*720전체화면/창모드, 총8종의 해상도가 있습니다.
 7055:전장 중 발동되는 전법특수효과 열기와 취소입니다.
-7056:알림창 속도 설정은 3등급으로 설정 가능합니다. "원만"설정은 6초후 자동으로 닫히고 "보통"설정은 4초후 자동으로 닫힙니다. "빠름"설정은 2초후 자동으로 닫힙니다.
+7056:알림창 속도는 3단계로 설정할 수 있습니다. "느림"은 6초 후 자동으로 닫히고, "보통"은 4초 후, "빠름"은 2초 후에 자동으로 닫힙니다.
 7057:튜토리얼 기능 열기.
 7058:^71075
 7059:set_des__________
